@@ -1,0 +1,11 @@
+# NUNCA subir esto a un repositorio
+config.json
+*.env
+url_aprendida.txt
+pagina_volcada.html
+monitor.log
+estado_cupos.json
+perfil_navegador/
+.venv/
+__pycache__/
+*.pyc

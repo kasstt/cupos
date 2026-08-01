@@ -1,0 +1,68 @@
+name: Monitor de cupos UBB
+
+on:
+  schedule:
+    # Cada 10 minutos. GitHub no es puntual: puede tardar entre 7 y 20 min.
+    - cron: "*/10 * * * *"
+  # Boton para ejecutarlo a mano desde la pestana Actions.
+  workflow_dispatch:
+
+# Necesario para poder guardar el estado de vuelta en el repositorio.
+permissions:
+  contents: write
+
+# Evita que dos revisiones corran a la vez y se pisen al guardar el estado.
+concurrency:
+  group: monitor-cupos
+  cancel-in-progress: false
+
+jobs:
+  revisar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Instalar Chromium
+        run: python -m playwright install --with-deps chromium
+
+      - name: Preparar la configuracion
+        run: cp config.ci.json config.json
+
+      - name: Revisar los cupos
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_IDS: ${{ secrets.TELEGRAM_CHAT_IDS }}
+          UBB_URL_LOGIN: ${{ secrets.UBB_URL_LOGIN }}
+          UBB_USUARIO: ${{ secrets.UBB_USUARIO }}
+          UBB_CLAVE: ${{ secrets.UBB_CLAVE }}
+        run: python monitor_cupos.py --once --headless
+
+      - name: Guardar el estado para la proxima revision
+        if: always()
+        run: |
+          if [ ! -f estado_cupos.json ]; then
+            echo "No hay estado que guardar."
+            exit 0
+          fi
+          git config user.name "monitor-cupos"
+          git config user.email "actions@github.com"
+          git add -f estado_cupos.json
+          if git diff --staged --quiet; then
+            echo "Sin cambios en el estado."
+          else
+            git commit -m "estado de cupos $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash
+            git push
+          fi

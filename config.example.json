@@ -1,0 +1,48 @@
+{
+  "url_cupos": "",
+  "url_inicio": "",
+  "navegacion_manual": false,
+
+  "canal": "telegram",
+
+  "telegram": {
+    "token": "",
+    "chat_id": []
+  },
+
+  "twilio": {
+    "account_sid": "",
+    "auth_token": "",
+    "desde": "+14155238886",
+    "hacia": []
+  },
+
+  "callmebot": {
+    "telefono": "",
+    "apikey": ""
+  },
+
+  "ntfy": {
+    "canal": "",
+    "servidor": "https://ntfy.sh"
+  },
+
+  "intervalo_min": 5,
+  "jitter_seg": 30,
+
+  "prefijos": ["34", "35"],
+  "vigilar_siempre": [],
+  "incluir_filas_sin_codigo": false,
+
+  "avisar_de": ["libero", "lleno", "nuevo"],
+  "umbral_cambio": 1,
+  "avisar_primera_lectura": true,
+  "avisar_errores": false,
+
+  "horario_activo": { "desde": "07:30", "hasta": "23:59" },
+
+  "perfil_dir": "perfil_navegador",
+  "selector_tabla": "",
+  "timeout_seg": 45,
+  "max_caracteres": 900
+}

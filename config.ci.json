@@ -1,0 +1,30 @@
+{
+  "_comentario": "Configuracion para GitHub Actions. NO contiene claves: el token de Telegram, los chat_id y las credenciales UBB llegan desde los Secrets del repositorio. Este archivo SI se sube y es seguro que sea publico.",
+
+  "canal": "telegram",
+  "telegram": { "token": "", "chat_id": [] },
+
+  "url_cupos": "",
+  "navegacion_manual": false,
+  "solo_recargar": false,
+  "pasos_hasta_tabla": ["Situación Académica", "Horario"],
+  "pedir_ayuda_si_falla": false,
+
+  "prefijos": ["34", "35"],
+  "vigilar_siempre": [],
+  "incluir_filas_sin_codigo": false,
+
+  "avisar_de": ["libero", "lleno", "nuevo"],
+  "umbral_cambio": 1,
+  "avisar_primera_lectura": false,
+  "avisar_errores": true,
+
+  "intervalo_min": 5,
+  "jitter_seg": 0,
+  "horario_activo": { "desde": "00:00", "hasta": "23:59" },
+
+  "perfil_dir": "perfil_navegador",
+  "selector_tabla": "",
+  "timeout_seg": 60,
+  "max_caracteres": 900
+}
