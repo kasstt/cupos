@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A102AA",
   "cupos": 35,
-  "inscritos": 36,
-  "libres": 3
+  "inscritos": 33,
+  "libres": 2
  },
  "340135|2": {
   "codigo": "340135",
@@ -95,8 +95,8 @@
   "nombre": "INGLÉS AVANZADO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: LU 12:40 14:50 S303AD | TEO: MI 11:10 12:30 A207AC",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 20,
+  "libres": 15
  },
  "340379|1": {
   "codigo": "340379",
@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "",
   "cupos": 35,
-  "inscritos": 15,
-  "libres": 20
+  "inscritos": 10,
+  "libres": 25
  },
  "340387|1": {
   "codigo": "340387",
