@@ -437,8 +437,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 45,
-  "inscritos": 34,
-  "libres": 11
+  "inscritos": 35,
+  "libres": 10
  },
  "350263|2": {
   "codigo": "350263",
@@ -455,8 +455,8 @@
   "nombre": "TALLER DE AERÓBICA. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: MI 11:10 12:30 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 13,
-  "libres": 17
+  "inscritos": 14,
+  "libres": 16
  },
  "350285|1": {
   "codigo": "350285",
@@ -491,8 +491,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - BURGOS MONROY ",
   "horario": "PRA: MI 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "350303|3": {
   "codigo": "350303",
@@ -950,8 +950,8 @@
   "nombre": "COMUNICACIÓN Y HABILIDADES SOCIALES. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: VI 11:10 12:30 S203AD",
   "cupos": 45,
-  "inscritos": 28,
-  "libres": 17
+  "inscritos": 27,
+  "libres": 18
  },
  "350395|1": {
   "codigo": "350395",
