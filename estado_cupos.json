@@ -113,8 +113,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 43,
+  "libres": 2
  },
  "340414|1": {
   "codigo": "340414",
@@ -932,8 +932,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A207AC",
   "cupos": 46,
-  "inscritos": 45,
-  "libres": 1
+  "inscritos": 46,
+  "libres": 0
  },
  "350393|2": {
   "codigo": "350393",
