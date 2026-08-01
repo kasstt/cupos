@@ -51,7 +51,7 @@
   "horario": "TEO: MA 15:40 17:00 S302AD",
   "cupos": 35,
   "inscritos": 15,
-  "libres": 18
+  "libres": 20
  },
  "340341|1": {
   "codigo": "340341",
@@ -473,8 +473,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 33,
+  "libres": 2
  },
  "350303|1": {
   "codigo": "350303",
