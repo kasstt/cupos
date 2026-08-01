@@ -113,8 +113,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "340414|1": {
   "codigo": "340414",
@@ -149,8 +149,8 @@
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
   "cupos": 46,
-  "inscritos": 46,
-  "libres": 0
+  "inscritos": 45,
+  "libres": 1
  },
  "340466|1": {
   "codigo": "340466",
@@ -158,8 +158,8 @@
   "nombre": "ÓPTICAS QUEER EN LA LITERATURA. - AMAYA GONZÁLEZ ,JUAN PABLO",
   "horario": "",
   "cupos": 35,
-  "inscritos": 9,
-  "libres": 26
+  "inscritos": 8,
+  "libres": 27
  },
  "340469|1": {
   "codigo": "340469",
@@ -266,8 +266,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S301AD",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 41,
+  "libres": 4
  },
  "340567|2": {
   "codigo": "340567",
@@ -275,8 +275,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S202AD",
   "cupos": 45,
-  "inscritos": 36,
-  "libres": 9
+  "inscritos": 37,
+  "libres": 8
  },
  "340568|1": {
   "codigo": "340568",
@@ -365,8 +365,8 @@
   "nombre": "COMUNICACIÓN EFECTIVA, LENGUAJE Y PERSUASIÓN. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: JU 12:40 14:00 A204AC",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "350213|1": {
   "codigo": "350213",
@@ -455,8 +455,8 @@
   "nombre": "TALLER DE AERÓBICA. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: MI 11:10 12:30 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 14,
-  "libres": 16
+  "inscritos": 10,
+  "libres": 20
  },
  "350285|1": {
   "codigo": "350285",
@@ -473,8 +473,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "350303|1": {
   "codigo": "350303",
@@ -500,8 +500,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 26,
-  "libres": 9
+  "inscritos": 28,
+  "libres": 7
  },
  "350311|1": {
   "codigo": "350311",
@@ -752,8 +752,8 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 28,
-  "inscritos": 26,
-  "libres": 2
+  "inscritos": 27,
+  "libres": 1
  },
  "350369|1": {
   "codigo": "350369",
@@ -761,8 +761,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 31,
+  "libres": 4
  },
  "350374|1": {
   "codigo": "350374",
@@ -770,8 +770,8 @@
   "nombre": "TALLER INCLUSIÓN Y DIVERSIDAD. - OTTO MATTA ,KAREN GRETEL VALERIA",
   "horario": "TEO: MI 12:40 14:00 S202AD",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 45,
+  "libres": 0
  },
  "350375|1": {
   "codigo": "350375",
@@ -788,8 +788,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 22,
-  "libres": 8
+  "inscritos": 23,
+  "libres": 7
  },
  "350378|2": {
   "codigo": "350378",
@@ -977,7 +977,7 @@
   "nombre": "TALLER DE COMUNICACIÓN JURÍDICA ORAL Y ESCRITA. - ESPEJO FLORES ,HÉCTOR LUIS",
   "horario": "TEO: VI 16:20 17:00 A104AC",
   "cupos": 30,
-  "inscritos": 9,
-  "libres": 21
+  "inscritos": 10,
+  "libres": 20
  }
 }
