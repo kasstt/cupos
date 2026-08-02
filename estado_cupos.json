@@ -491,8 +491,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - BURGOS MONROY ",
   "horario": "PRA: MI 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350303|3": {
   "codigo": "350303",
@@ -500,8 +500,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 28,
-  "libres": 7
+  "inscritos": 29,
+  "libres": 6
  },
  "350311|1": {
   "codigo": "350311",
