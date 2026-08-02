@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A102AA",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "340135|2": {
   "codigo": "340135",
@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 41,
+  "libres": 4
  },
  "340474|2": {
   "codigo": "340474",
@@ -194,8 +194,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "",
   "cupos": 35,
-  "inscritos": 13,
-  "libres": 22
+  "inscritos": 14,
+  "libres": 21
  },
  "340477|1": {
   "codigo": "340477",
@@ -203,8 +203,8 @@
   "nombre": "ALEMÁN COMUNICACIONAL I . - SLAIBE FERNÁNDEZ ,ERNEST ALEJANDRO",
   "horario": "TEO: LU 12:40 14:00 A207AC | TEO: JU 11:10 12:30 A202AC",
   "cupos": 40,
-  "inscritos": 40,
-  "libres": 0
+  "inscritos": 39,
+  "libres": 1
  },
  "340479|1": {
   "codigo": "340479",
@@ -275,8 +275,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S202AD",
   "cupos": 45,
-  "inscritos": 37,
-  "libres": 8
+  "inscritos": 38,
+  "libres": 7
  },
  "340568|1": {
   "codigo": "340568",
@@ -302,8 +302,8 @@
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
   "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "inscritos": 44,
+  "libres": 1
  },
  "350166|1": {
   "codigo": "350166",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 45,
-  "inscritos": 39,
-  "libres": 6
+  "inscritos": 38,
+  "libres": 7
  },
  "350210|1": {
   "codigo": "350210",
@@ -446,8 +446,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A308AC",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 45,
+  "libres": 0
  },
  "350283|1": {
   "codigo": "350283",
@@ -761,8 +761,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "350374|1": {
   "codigo": "350374",
@@ -788,8 +788,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 18,
-  "libres": 12
+  "inscritos": 17,
+  "libres": 13
  },
  "350378|2": {
   "codigo": "350378",
@@ -815,8 +815,8 @@
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350380|1": {
   "codigo": "350380",
@@ -851,8 +851,8 @@
   "nombre": "TALLER DE INICIACIÓN AL BASQUETBOL. - CAMPOS SOBARZO ,FERNANDO ROLANDO",
   "horario": "PRA: LU 11:10 12:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 32,
+  "libres": 3
  },
  "350390|1": {
   "codigo": "350390",
@@ -860,8 +860,8 @@
   "nombre": "TALLER DE ACTIVIDAD FÍSICA Y JUEGOS PREDEPORTIVOS. - CAMPOS SOBARZO ,FERNANDO RO",
   "horario": "PRA: LU 12:40 14:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350391|1": {
   "codigo": "350391",
@@ -869,8 +869,8 @@
   "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - CARREÑO HUECHACONA ,MACARENA PATRICIA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "350392|1": {
   "codigo": "350392",
