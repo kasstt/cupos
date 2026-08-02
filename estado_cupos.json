@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A102AA",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "340135|2": {
   "codigo": "340135",
@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "340226|1": {
   "codigo": "340226",
@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 45,
-  "inscritos": 39,
-  "libres": 6
+  "inscritos": 40,
+  "libres": 5
  },
  "340474|2": {
   "codigo": "340474",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 45,
-  "inscritos": 38,
-  "libres": 7
+  "inscritos": 39,
+  "libres": 6
  },
  "350210|1": {
   "codigo": "350210",
@@ -446,8 +446,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A308AC",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 43,
+  "libres": 2
  },
  "350283|1": {
   "codigo": "350283",
@@ -671,8 +671,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 39,
-  "libres": 11
+  "inscritos": 40,
+  "libres": 10
  },
  "350316|3": {
   "codigo": "350316",
@@ -680,8 +680,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 11:10 12:30 S301AD",
   "cupos": 50,
-  "inscritos": 19,
-  "libres": 31
+  "inscritos": 18,
+  "libres": 32
  },
  "350316|4": {
   "codigo": "350316",
@@ -770,8 +770,8 @@
   "nombre": "TALLER INCLUSIÓN Y DIVERSIDAD. - OTTO MATTA ,KAREN GRETEL VALERIA",
   "horario": "TEO: MI 12:40 14:00 S202AD",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "350375|1": {
   "codigo": "350375",
@@ -797,8 +797,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 21,
-  "libres": 9
+  "inscritos": 20,
+  "libres": 10
  },
  "350378|3": {
   "codigo": "350378",
@@ -815,8 +815,8 @@
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 33,
+  "libres": 2
  },
  "350380|1": {
   "codigo": "350380",
