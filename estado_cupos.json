@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 37,
-  "libres": 13
+  "inscritos": 38,
+  "libres": 12
  },
  "340481|2": {
   "codigo": "340481",
@@ -302,8 +302,8 @@
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "350166|1": {
   "codigo": "350166",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 45,
-  "inscritos": 38,
-  "libres": 7
+  "inscritos": 40,
+  "libres": 5
  },
  "350210|1": {
   "codigo": "350210",
@@ -788,8 +788,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 17,
-  "libres": 13
+  "inscritos": 18,
+  "libres": 12
  },
  "350378|2": {
   "codigo": "350378",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 23,
-  "libres": 7
+  "inscritos": 22,
+  "libres": 8
  },
  "350379|1": {
   "codigo": "350379",
@@ -878,8 +878,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S203AD",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|2": {
   "codigo": "350392",
