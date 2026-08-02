@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 35,
-  "libres": 15
+  "inscritos": 36,
+  "libres": 14
  },
  "340481|2": {
   "codigo": "340481",
@@ -482,8 +482,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - ZÚÑIGA QUIERO ",
   "horario": "PRA: LU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350303|2": {
   "codigo": "350303",
@@ -500,8 +500,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 29,
-  "libres": 6
+  "inscritos": 28,
+  "libres": 7
  },
  "350311|1": {
   "codigo": "350311",
@@ -518,8 +518,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: VI 11:10 12:30 S302AD",
   "cupos": 50,
-  "inscritos": 16,
-  "libres": 34
+  "inscritos": 17,
+  "libres": 33
  },
  "350311|3": {
   "codigo": "350311",
@@ -815,8 +815,8 @@
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 31,
+  "libres": 4
  },
  "350380|1": {
   "codigo": "350380",
