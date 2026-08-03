@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 4,
-  "libres": 31
+  "inscritos": 3,
+  "libres": 32
  },
  "340228|1": {
   "codigo": "340228",
@@ -59,8 +59,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 13,
-  "libres": 22
+  "inscritos": 14,
+  "libres": 21
  },
  "340344|1": {
   "codigo": "340344",
@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 15,
-  "libres": 20
+  "inscritos": 16,
+  "libres": 19
  },
  "340387|1": {
   "codigo": "340387",
@@ -113,8 +113,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 42,
+  "libres": 3
  },
  "340414|1": {
   "codigo": "340414",
@@ -122,8 +122,8 @@
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "340451|1": {
   "codigo": "340451",
@@ -158,8 +158,8 @@
   "nombre": "ÓPTICAS QUEER EN LA LITERATURA. - AMAYA GONZÁLEZ ,JUAN PABLO",
   "horario": "TEO: JU 09:40 11:00 S101FG",
   "cupos": 35,
-  "inscritos": 8,
-  "libres": 27
+  "inscritos": 9,
+  "libres": 26
  },
  "340469|1": {
   "codigo": "340469",
@@ -185,8 +185,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
   "cupos": 45,
-  "inscritos": 34,
-  "libres": 11
+  "inscritos": 37,
+  "libres": 8
  },
  "340475|1": {
   "codigo": "340475",
@@ -212,8 +212,8 @@
   "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
   "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 15,
-  "libres": 20
+  "inscritos": 14,
+  "libres": 21
  },
  "340481|1": {
   "codigo": "340481",
@@ -293,8 +293,8 @@
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A307AC",
   "cupos": 40,
-  "inscritos": 39,
-  "libres": 1
+  "inscritos": 40,
+  "libres": 0
  },
  "350140|1": {
   "codigo": "350140",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 43,
+  "libres": 2
  },
  "350210|1": {
   "codigo": "350210",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 29,
-  "libres": 6
+  "inscritos": 28,
+  "libres": 7
  },
  "350222|1": {
   "codigo": "350222",
@@ -401,8 +401,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 32,
+  "libres": 3
  },
  "350222|2": {
   "codigo": "350222",
@@ -437,8 +437,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "inscritos": 44,
+  "libres": 1
  },
  "350263|2": {
   "codigo": "350263",
@@ -473,8 +473,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350303|1": {
   "codigo": "350303",
@@ -653,8 +653,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 30,
-  "inscritos": 30,
-  "libres": 0
+  "inscritos": 29,
+  "libres": 1
  },
  "350316|1": {
   "codigo": "350316",
@@ -761,8 +761,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "350374|1": {
   "codigo": "350374",
@@ -842,8 +842,8 @@
   "nombre": "TALLER DE DEFENSA PERSONAL. - ÓRDENES VALENZUELA ,MAURO ISRAEL",
   "horario": "PRA: JU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350389|1": {
   "codigo": "350389",
