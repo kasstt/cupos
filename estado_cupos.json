@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "340135|2": {
   "codigo": "340135",
@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 28,
+  "libres": 7
  },
  "340226|1": {
   "codigo": "340226",
@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 5,
-  "libres": 30
+  "inscritos": 4,
+  "libres": 31
  },
  "340228|1": {
   "codigo": "340228",
@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 35,
-  "inscritos": 15,
-  "libres": 20
+  "inscritos": 17,
+  "libres": 18
  },
  "340305|1": {
   "codigo": "340305",
@@ -50,8 +50,8 @@
   "nombre": "LOS CAMBIOS DEL SIGLO XX. - CONCHA OVIEDO ,HÉCTOR ENRIQUE",
   "horario": "TEO: MA 15:40 17:00 S302AD",
   "cupos": 35,
-  "inscritos": 13,
-  "libres": 22
+  "inscritos": 12,
+  "libres": 23
  },
  "340341|1": {
   "codigo": "340341",
@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 13,
-  "libres": 22
+  "inscritos": 15,
+  "libres": 20
  },
  "340387|1": {
   "codigo": "340387",
@@ -140,8 +140,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 35,
+  "libres": 0
  },
  "340463|1": {
   "codigo": "340463",
@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "340474|2": {
   "codigo": "340474",
@@ -212,8 +212,8 @@
   "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
   "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 16,
-  "libres": 19
+  "inscritos": 15,
+  "libres": 20
  },
  "340481|1": {
   "codigo": "340481",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 40,
-  "libres": 10
+  "inscritos": 38,
+  "libres": 12
  },
  "340481|2": {
   "codigo": "340481",
@@ -266,8 +266,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "340567|2": {
   "codigo": "340567",
@@ -275,8 +275,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 45,
-  "inscritos": 38,
-  "libres": 7
+  "inscritos": 39,
+  "libres": 6
  },
  "340568|1": {
   "codigo": "340568",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 42,
+  "libres": 3
  },
  "350210|1": {
   "codigo": "350210",
@@ -381,7 +381,7 @@
   "codigo": "350217",
   "seccion": "1",
   "nombre": "TALLER DE TEATRO. - CEBALLOS SÁNCHEZ ,YASNA MARÍA",
-  "horario": "",
+  "horario": "TEO: LU 17:10 18:30 Sala de Teatro",
   "cupos": 30,
   "inscritos": 7,
   "libres": 23
@@ -392,23 +392,23 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 29,
+  "libres": 6
  },
  "350222|1": {
   "codigo": "350222",
   "seccion": "1",
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
-  "horario": "",
+  "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350222|2": {
   "codigo": "350222",
   "seccion": "2",
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
-  "horario": "",
+  "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
   "inscritos": 35,
   "libres": 0
@@ -462,7 +462,7 @@
   "codigo": "350285",
   "seccion": "1",
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
-  "horario": "",
+  "horario": "TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 35,
   "inscritos": 35,
   "libres": 0
@@ -471,10 +471,10 @@
   "codigo": "350285",
   "seccion": "2",
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
-  "horario": "",
+  "horario": "TEO: VI 11:10 12:30 Sala de Artes",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350303|1": {
   "codigo": "350303",
@@ -518,8 +518,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: VI 11:10 12:30 S302AD",
   "cupos": 50,
-  "inscritos": 17,
-  "libres": 33
+  "inscritos": 18,
+  "libres": 32
  },
  "350311|3": {
   "codigo": "350311",
@@ -642,7 +642,7 @@
   "codigo": "350314",
   "seccion": "1",
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
-  "horario": "",
+  "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
   "inscritos": 45,
   "libres": 0
@@ -651,7 +651,7 @@
   "codigo": "350315",
   "seccion": "1",
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
-  "horario": "",
+  "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 30,
   "inscritos": 30,
   "libres": 0
@@ -734,8 +734,8 @@
   "nombre": "TALLER DE PILATES PARA LA SALUD. - BURGOS MONROY ,ROMINA PATRICIA",
   "horario": "PRA: JU 11:10 12:30 Sala Taller 3",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 30,
+  "libres": 0
  },
  "350361|1": {
   "codigo": "350361",
@@ -752,17 +752,17 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 28,
-  "inscritos": 27,
-  "libres": 1
+  "inscritos": 28,
+  "libres": 0
  },
  "350369|1": {
   "codigo": "350369",
   "seccion": "1",
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
-  "horario": "",
+  "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "350374|1": {
   "codigo": "350374",
@@ -797,8 +797,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 22,
-  "libres": 8
+  "inscritos": 21,
+  "libres": 9
  },
  "350378|3": {
   "codigo": "350378",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 22,
-  "libres": 8
+  "inscritos": 23,
+  "libres": 7
  },
  "350379|1": {
   "codigo": "350379",
@@ -842,8 +842,8 @@
   "nombre": "TALLER DE DEFENSA PERSONAL. - ÓRDENES VALENZUELA ,MAURO ISRAEL",
   "horario": "PRA: JU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350389|1": {
   "codigo": "350389",
@@ -860,8 +860,8 @@
   "nombre": "TALLER DE ACTIVIDAD FÍSICA Y JUEGOS PREDEPORTIVOS. - CAMPOS SOBARZO ,FERNANDO RO",
   "horario": "PRA: LU 12:40 14:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 35,
+  "libres": 0
  },
  "350391|1": {
   "codigo": "350391",
@@ -904,9 +904,9 @@
   "seccion": "4",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: JU 08:10 09:30 S201AD",
-  "cupos": 35,
+  "cupos": 36,
   "inscritos": 35,
-  "libres": 0
+  "libres": 1
  },
  "350392|5": {
   "codigo": "350392",
@@ -914,8 +914,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350392|6": {
   "codigo": "350392",
@@ -940,8 +940,8 @@
   "seccion": "2",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
-  "cupos": 45,
-  "inscritos": 45,
+  "cupos": 46,
+  "inscritos": 46,
   "libres": 0
  },
  "350394|1": {
@@ -950,8 +950,8 @@
   "nombre": "COMUNICACIÓN Y HABILIDADES SOCIALES. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: VI 11:10 12:30 S203AD",
   "cupos": 45,
-  "inscritos": 36,
-  "libres": 9
+  "inscritos": 38,
+  "libres": 7
  },
  "350395|1": {
   "codigo": "350395",
@@ -959,8 +959,8 @@
   "nombre": "TALLER DE COMUNICACIÓN JURÍDICA ORAL Y ESCRITA. - ESPEJO FLORES ,HÉCTOR LUIS",
   "horario": "TEO: MA 17:10 18:30 A104AC",
   "cupos": 30,
-  "inscritos": 21,
-  "libres": 9
+  "inscritos": 22,
+  "libres": 8
  },
  "350395|2": {
   "codigo": "350395",
@@ -968,8 +968,8 @@
   "nombre": "TALLER DE COMUNICACIÓN JURÍDICA ORAL Y ESCRITA. - ESPEJO FLORES ,HÉCTOR LUIS",
   "horario": "TEO: MI 17:10 18:30 A104AC",
   "cupos": 30,
-  "inscritos": 12,
-  "libres": 18
+  "inscritos": 11,
+  "libres": 19
  },
  "350395|3": {
   "codigo": "350395",
