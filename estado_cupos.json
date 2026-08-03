@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
   "cupos": 35,
-  "inscritos": 26,
-  "libres": 9
+  "inscritos": 25,
+  "libres": 10
  },
  "340226|1": {
   "codigo": "340226",
@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 35,
-  "inscritos": 19,
-  "libres": 16
+  "inscritos": 21,
+  "libres": 14
  },
  "340305|1": {
   "codigo": "340305",
@@ -59,8 +59,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 14,
-  "libres": 21
+  "inscritos": 15,
+  "libres": 20
  },
  "340344|1": {
   "codigo": "340344",
@@ -158,8 +158,8 @@
   "nombre": "ÓPTICAS QUEER EN LA LITERATURA. - AMAYA GONZÁLEZ ,JUAN PABLO",
   "horario": "TEO: JU 09:40 11:00 S101FG",
   "cupos": 35,
-  "inscritos": 10,
-  "libres": 25
+  "inscritos": 9,
+  "libres": 26
  },
  "340469|1": {
   "codigo": "340469",
@@ -194,8 +194,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 17,
-  "libres": 18
+  "inscritos": 18,
+  "libres": 17
  },
  "340477|1": {
   "codigo": "340477",
@@ -230,8 +230,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "",
   "cupos": 50,
-  "inscritos": 42,
-  "libres": 8
+  "inscritos": 41,
+  "libres": 9
  },
  "340481|3": {
   "codigo": "340481",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "350210|1": {
   "codigo": "350210",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 28,
-  "libres": 7
+  "inscritos": 27,
+  "libres": 8
  },
  "350222|1": {
   "codigo": "350222",
@@ -410,8 +410,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350260|1": {
   "codigo": "350260",
@@ -698,8 +698,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
   "horario": "",
   "cupos": 50,
-  "inscritos": 26,
-  "libres": 24
+  "inscritos": 27,
+  "libres": 23
  },
  "350316|6": {
   "codigo": "350316",
@@ -743,8 +743,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 30,
+  "libres": 0
  },
  "350362|1": {
   "codigo": "350362",
@@ -761,8 +761,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 33,
+  "libres": 2
  },
  "350374|1": {
   "codigo": "350374",
@@ -788,8 +788,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 20,
-  "libres": 10
+  "inscritos": 21,
+  "libres": 9
  },
  "350378|2": {
   "codigo": "350378",
@@ -797,8 +797,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 23,
-  "libres": 7
+  "inscritos": 22,
+  "libres": 8
  },
  "350378|3": {
   "codigo": "350378",
@@ -815,8 +815,8 @@
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 32,
+  "libres": 3
  },
  "350380|1": {
   "codigo": "350380",
@@ -923,8 +923,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: VI 12:40 14:00 A102AB",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350393|1": {
   "codigo": "350393",
