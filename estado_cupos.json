@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 7,
-  "libres": 28
+  "inscritos": 8,
+  "libres": 27
  },
  "340228|1": {
   "codigo": "340228",
@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 35,
-  "inscritos": 24,
-  "libres": 11
+  "inscritos": 25,
+  "libres": 10
  },
  "340305|1": {
   "codigo": "340305",
@@ -76,9 +76,9 @@
   "seccion": "2",
   "nombre": "INGLÉS INTERMEDIO. - VELÁSQUEZ ZAPATA ,LILIAN VIVIANA",
   "horario": "TEO: MA 12:40 14:00 Sin Definir 1",
-  "cupos": 35,
+  "cupos": 36,
   "inscritos": 35,
-  "libres": 0
+  "libres": 1
  },
  "340344|3": {
   "codigo": "340344",
@@ -95,8 +95,8 @@
   "nombre": "INGLÉS AVANZADO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: LU 12:40 14:50 S303AD | TEO: MI 11:10 12:30 A207AC",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 20,
+  "libres": 15
  },
  "340379|1": {
   "codigo": "340379",
@@ -148,9 +148,9 @@
   "seccion": "1",
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
-  "cupos": 47,
-  "inscritos": 47,
-  "libres": 0
+  "cupos": 50,
+  "inscritos": 49,
+  "libres": 1
  },
  "340466|1": {
   "codigo": "340466",
@@ -175,18 +175,18 @@
   "seccion": "1",
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
-  "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "cupos": 50,
+  "inscritos": 44,
+  "libres": 6
  },
  "340474|2": {
   "codigo": "340474",
   "seccion": "2",
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
-  "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "cupos": 50,
+  "inscritos": 44,
+  "libres": 6
  },
  "340475|1": {
   "codigo": "340475",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 46,
+  "libres": 4
  },
  "340481|2": {
   "codigo": "340481",
@@ -265,18 +265,18 @@
   "seccion": "1",
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
-  "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "cupos": 50,
+  "inscritos": 44,
+  "libres": 6
  },
  "340567|2": {
   "codigo": "340567",
   "seccion": "2",
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 42,
-  "libres": 3
+  "libres": 8
  },
  "340568|1": {
   "codigo": "340568",
@@ -292,18 +292,18 @@
   "seccion": "1",
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A307AC",
-  "cupos": 40,
+  "cupos": 50,
   "inscritos": 40,
-  "libres": 0
+  "libres": 10
  },
  "350140|1": {
   "codigo": "350140",
   "seccion": "1",
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
-  "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "cupos": 50,
+  "inscritos": 48,
+  "libres": 2
  },
  "350166|1": {
   "codigo": "350166",
@@ -355,27 +355,27 @@
   "seccion": "1",
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 45,
-  "libres": 0
+  "libres": 5
  },
  "350210|1": {
   "codigo": "350210",
   "seccion": "1",
   "nombre": "COMUNICACIÓN EFECTIVA, LENGUAJE Y PERSUASIÓN. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: JU 12:40 14:00 A204AC",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 45,
-  "libres": 0
+  "libres": 5
  },
  "350213|1": {
   "codigo": "350213",
   "seccion": "1",
   "nombre": "TALLER DE DESARROLLO PSICOLÓGICO. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: JU 12:40 14:00 A205AC",
-  "cupos": 48,
-  "inscritos": 48,
-  "libres": 0
+  "cupos": 50,
+  "inscritos": 49,
+  "libres": 1
  },
  "350217|1": {
   "codigo": "350217",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 31,
+  "libres": 4
  },
  "350222|1": {
   "codigo": "350222",
@@ -401,8 +401,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 29,
-  "libres": 6
+  "inscritos": 30,
+  "libres": 5
  },
  "350222|2": {
   "codigo": "350222",
@@ -418,36 +418,36 @@
   "seccion": "1",
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 14:10 15:30 S302AD",
-  "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "cupos": 50,
+  "inscritos": 46,
+  "libres": 4
  },
  "350260|2": {
   "codigo": "350260",
   "seccion": "2",
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 45,
-  "libres": 0
+  "libres": 5
  },
  "350263|1": {
   "codigo": "350263",
   "seccion": "1",
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 45,
-  "libres": 0
+  "libres": 5
  },
  "350263|2": {
   "codigo": "350263",
   "seccion": "2",
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A308AC",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 45,
-  "libres": 0
+  "libres": 5
  },
  "350283|1": {
   "codigo": "350283",
@@ -464,8 +464,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "350285|2": {
   "codigo": "350285",
@@ -482,8 +482,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - ZÚÑIGA QUIERO ",
   "horario": "PRA: LU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 33,
+  "libres": 2
  },
  "350303|2": {
   "codigo": "350303",
@@ -599,8 +599,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - SÁEZ ALARCÓN ,JORGE AN",
   "horario": "TEO: MI 11:10 12:30 A308AC",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 49,
+  "libres": 1
  },
  "350311|12": {
   "codigo": "350311",
@@ -617,8 +617,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
   "horario": "TEO: MI 12:40 14:00 S301AD",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350311|14": {
   "codigo": "350311",
@@ -761,26 +761,26 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350374|1": {
   "codigo": "350374",
   "seccion": "1",
   "nombre": "TALLER INCLUSIÓN Y DIVERSIDAD. - OTTO MATTA ,KAREN GRETEL VALERIA",
   "horario": "TEO: MI 12:40 14:00 S202AD",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 44,
-  "libres": 1
+  "libres": 6
  },
  "350375|1": {
   "codigo": "350375",
   "seccion": "1",
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 S102ExIM",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 45,
-  "libres": 0
+  "libres": 5
  },
  "350378|1": {
   "codigo": "350378",
@@ -788,8 +788,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 24,
-  "libres": 6
+  "inscritos": 23,
+  "libres": 7
  },
  "350378|2": {
   "codigo": "350378",
@@ -832,9 +832,9 @@
   "seccion": "1",
   "nombre": "TALLER EMPRENDIMIENTOS DE ALTO IMPACTO. - SÁEZ ARTEAGA ,CAMILA FERNANDA",
   "horario": "TEO: VI 11:10 12:30 S301AD",
-  "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "cupos": 50,
+  "inscritos": 48,
+  "libres": 2
  },
  "350388|1": {
   "codigo": "350388",
@@ -860,17 +860,17 @@
   "nombre": "TALLER DE ACTIVIDAD FÍSICA Y JUEGOS PREDEPORTIVOS. - CAMPOS SOBARZO ,FERNANDO RO",
   "horario": "PRA: LU 12:40 14:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350391|1": {
   "codigo": "350391",
   "seccion": "1",
   "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - CARREÑO HUECHACONA ,MACARENA PATRICIA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
-  "cupos": 46,
+  "cupos": 50,
   "inscritos": 45,
-  "libres": 1
+  "libres": 5
  },
  "350392|1": {
   "codigo": "350392",
@@ -878,8 +878,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S203AD",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|2": {
   "codigo": "350392",
@@ -931,27 +931,27 @@
   "seccion": "1",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A207AC",
-  "cupos": 46,
+  "cupos": 50,
   "inscritos": 46,
-  "libres": 0
+  "libres": 4
  },
  "350393|2": {
   "codigo": "350393",
   "seccion": "2",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
-  "cupos": 46,
-  "inscritos": 46,
-  "libres": 0
+  "cupos": 50,
+  "inscritos": 44,
+  "libres": 6
  },
  "350394|1": {
   "codigo": "350394",
   "seccion": "1",
   "nombre": "COMUNICACIÓN Y HABILIDADES SOCIALES. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: VI 11:10 12:30 S203AD",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 44,
-  "libres": 1
+  "libres": 6
  },
  "350395|1": {
   "codigo": "350395",
