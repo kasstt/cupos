@@ -392,8 +392,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 27,
-  "libres": 8
+  "inscritos": 28,
+  "libres": 7
  },
  "350222|1": {
   "codigo": "350222",
@@ -500,8 +500,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 29,
-  "libres": 6
+  "inscritos": 30,
+  "libres": 5
  },
  "350311|1": {
   "codigo": "350311",
@@ -653,8 +653,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 30,
-  "inscritos": 30,
-  "libres": 0
+  "inscritos": 29,
+  "libres": 1
  },
  "350316|1": {
   "codigo": "350316",
