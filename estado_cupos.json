@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 33,
+  "libres": 2
  },
  "340135|2": {
   "codigo": "340135",
@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 20,
-  "libres": 15
+  "inscritos": 21,
+  "libres": 14
  },
  "340226|2": {
   "codigo": "340226",
@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 5,
-  "libres": 30
+  "inscritos": 7,
+  "libres": 28
  },
  "340228|1": {
   "codigo": "340228",
@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 35,
-  "inscritos": 22,
-  "libres": 13
+  "inscritos": 21,
+  "libres": 14
  },
  "340305|1": {
   "codigo": "340305",
@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 17,
-  "libres": 18
+  "inscritos": 18,
+  "libres": 17
  },
  "340387|1": {
   "codigo": "340387",
@@ -140,8 +140,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "340463|1": {
   "codigo": "340463",
@@ -185,8 +185,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
   "cupos": 45,
-  "inscritos": 36,
-  "libres": 9
+  "inscritos": 37,
+  "libres": 8
  },
  "340475|1": {
   "codigo": "340475",
@@ -212,8 +212,8 @@
   "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
   "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 14,
-  "libres": 21
+  "inscritos": 15,
+  "libres": 20
  },
  "340481|1": {
   "codigo": "340481",
@@ -275,8 +275,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 45,
-  "inscritos": 39,
-  "libres": 6
+  "inscritos": 40,
+  "libres": 5
  },
  "340568|1": {
   "codigo": "340568",
@@ -401,8 +401,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 31,
-  "libres": 4
+  "inscritos": 30,
+  "libres": 5
  },
  "350222|2": {
   "codigo": "350222",
@@ -464,8 +464,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350285|2": {
   "codigo": "350285",
@@ -761,8 +761,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 35,
+  "libres": 0
  },
  "350374|1": {
   "codigo": "350374",
@@ -860,8 +860,8 @@
   "nombre": "TALLER DE ACTIVIDAD FÍSICA Y JUEGOS PREDEPORTIVOS. - CAMPOS SOBARZO ,FERNANDO RO",
   "horario": "PRA: LU 12:40 14:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350391|1": {
   "codigo": "350391",
@@ -950,8 +950,8 @@
   "nombre": "COMUNICACIÓN Y HABILIDADES SOCIALES. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: VI 11:10 12:30 S203AD",
   "cupos": 45,
-  "inscritos": 40,
-  "libres": 5
+  "inscritos": 41,
+  "libres": 4
  },
  "350395|1": {
   "codigo": "350395",
