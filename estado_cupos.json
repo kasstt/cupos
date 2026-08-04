@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
   "cupos": 35,
-  "inscritos": 24,
-  "libres": 11
+  "inscritos": 23,
+  "libres": 12
  },
  "340226|1": {
   "codigo": "340226",
@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 20,
+  "libres": 15
  },
  "340226|2": {
   "codigo": "340226",
@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 3,
-  "libres": 32
+  "inscritos": 5,
+  "libres": 30
  },
  "340228|1": {
   "codigo": "340228",
@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 22,
+  "libres": 13
  },
  "340305|1": {
   "codigo": "340305",
@@ -50,8 +50,8 @@
   "nombre": "LOS CAMBIOS DEL SIGLO XX. - CONCHA OVIEDO ,HÉCTOR ENRIQUE",
   "horario": "TEO: MA 15:40 17:00 S302AD",
   "cupos": 35,
-  "inscritos": 13,
-  "libres": 22
+  "inscritos": 14,
+  "libres": 21
  },
  "340341|1": {
   "codigo": "340341",
@@ -59,8 +59,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 15,
-  "libres": 20
+  "inscritos": 17,
+  "libres": 18
  },
  "340344|1": {
   "codigo": "340344",
@@ -95,8 +95,8 @@
   "nombre": "INGLÉS AVANZADO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: LU 12:40 14:50 S303AD | TEO: MI 11:10 12:30 A207AC",
   "cupos": 35,
-  "inscritos": 22,
-  "libres": 13
+  "inscritos": 21,
+  "libres": 14
  },
  "340379|1": {
   "codigo": "340379",
@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 18,
-  "libres": 17
+  "inscritos": 17,
+  "libres": 18
  },
  "340387|1": {
   "codigo": "340387",
@@ -113,8 +113,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 43,
+  "libres": 2
  },
  "340414|1": {
   "codigo": "340414",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 38,
-  "libres": 12
+  "inscritos": 37,
+  "libres": 13
  },
  "340481|2": {
   "codigo": "340481",
@@ -266,8 +266,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
   "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "inscritos": 44,
+  "libres": 1
  },
  "340567|2": {
   "codigo": "340567",
@@ -284,8 +284,8 @@
   "nombre": "PERSPECTIVA DE GÉNERO, VIOLENCIA Y DIVERSIDAD SEXUAL. - SALAMANCA RÍOS ,SANDRA E",
   "horario": "TEO: VI 11:10 12:30 S202AD",
   "cupos": 45,
-  "inscritos": 23,
-  "libres": 22
+  "inscritos": 21,
+  "libres": 24
  },
  "350131|1": {
   "codigo": "350131",
@@ -401,8 +401,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 31,
+  "libres": 4
  },
  "350222|2": {
   "codigo": "350222",
@@ -410,8 +410,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 32,
+  "libres": 3
  },
  "350260|1": {
   "codigo": "350260",
@@ -644,8 +644,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "350315|1": {
   "codigo": "350315",
@@ -689,8 +689,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
   "horario": "",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350316|5": {
   "codigo": "350316",
@@ -734,8 +734,8 @@
   "nombre": "TALLER DE PILATES PARA LA SALUD. - BURGOS MONROY ,ROMINA PATRICIA",
   "horario": "PRA: JU 11:10 12:30 Sala Taller 3",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 30,
+  "libres": 0
  },
  "350361|1": {
   "codigo": "350361",
@@ -752,8 +752,8 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 28,
-  "inscritos": 28,
-  "libres": 0
+  "inscritos": 27,
+  "libres": 1
  },
  "350369|1": {
   "codigo": "350369",
@@ -788,8 +788,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 21,
-  "libres": 9
+  "inscritos": 23,
+  "libres": 7
  },
  "350378|2": {
   "codigo": "350378",
@@ -797,8 +797,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 21,
-  "libres": 9
+  "inscritos": 23,
+  "libres": 7
  },
  "350378|3": {
   "codigo": "350378",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 24,
-  "libres": 6
+  "inscritos": 25,
+  "libres": 5
  },
  "350379|1": {
   "codigo": "350379",
@@ -950,8 +950,8 @@
   "nombre": "COMUNICACIÓN Y HABILIDADES SOCIALES. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: VI 11:10 12:30 S203AD",
   "cupos": 45,
-  "inscritos": 38,
-  "libres": 7
+  "inscritos": 40,
+  "libres": 5
  },
  "350395|1": {
   "codigo": "350395",
