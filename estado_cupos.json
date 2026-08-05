@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 22,
-  "libres": 13
+  "inscritos": 24,
+  "libres": 11
  },
  "340226|2": {
   "codigo": "340226",
@@ -50,8 +50,8 @@
   "nombre": "LOS CAMBIOS DEL SIGLO XX. - CONCHA OVIEDO ,HÉCTOR ENRIQUE",
   "horario": "TEO: MA 15:40 17:00 S302AD",
   "cupos": 35,
-  "inscritos": 14,
-  "libres": 21
+  "inscritos": 15,
+  "libres": 20
  },
  "340341|1": {
   "codigo": "340341",
@@ -59,8 +59,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 23,
+  "libres": 12
  },
  "340344|1": {
   "codigo": "340344",
@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 19,
-  "libres": 16
+  "inscritos": 20,
+  "libres": 15
  },
  "340387|1": {
   "codigo": "340387",
@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 48,
+  "libres": 2
  },
  "340474|2": {
   "codigo": "340474",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 43,
+  "libres": 7
  },
  "340481|2": {
   "codigo": "340481",
@@ -275,8 +275,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 42,
-  "libres": 8
+  "inscritos": 43,
+  "libres": 7
  },
  "340568|1": {
   "codigo": "340568",
@@ -293,8 +293,8 @@
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A307AC",
   "cupos": 50,
-  "inscritos": 40,
-  "libres": 10
+  "inscritos": 41,
+  "libres": 9
  },
  "350140|1": {
   "codigo": "350140",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 46,
+  "libres": 4
  },
  "350210|1": {
   "codigo": "350210",
@@ -365,8 +365,8 @@
   "nombre": "COMUNICACIÓN EFECTIVA, LENGUAJE Y PERSUASIÓN. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: JU 12:40 14:00 A204AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350213|1": {
   "codigo": "350213",
@@ -401,8 +401,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 29,
-  "libres": 6
+  "inscritos": 28,
+  "libres": 7
  },
  "350222|2": {
   "codigo": "350222",
@@ -428,8 +428,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 47,
+  "libres": 3
  },
  "350263|1": {
   "codigo": "350263",
@@ -437,8 +437,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 50,
+  "libres": 0
  },
  "350263|2": {
   "codigo": "350263",
@@ -446,8 +446,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A308AC",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 44,
+  "libres": 6
  },
  "350283|1": {
   "codigo": "350283",
@@ -464,8 +464,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350285|2": {
   "codigo": "350285",
@@ -644,8 +644,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "350315|1": {
   "codigo": "350315",
@@ -653,8 +653,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 30,
+  "libres": 0
  },
  "350316|1": {
   "codigo": "350316",
@@ -680,8 +680,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 11:10 12:30 S301AD",
   "cupos": 50,
-  "inscritos": 18,
-  "libres": 32
+  "inscritos": 19,
+  "libres": 31
  },
  "350316|4": {
   "codigo": "350316",
@@ -707,8 +707,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "",
   "cupos": 50,
-  "inscritos": 10,
-  "libres": 40
+  "inscritos": 11,
+  "libres": 39
  },
  "350316|7": {
   "codigo": "350316",
@@ -752,8 +752,8 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 28,
-  "inscritos": 26,
-  "libres": 2
+  "inscritos": 27,
+  "libres": 1
  },
  "350369|1": {
   "codigo": "350369",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 26,
-  "libres": 4
+  "inscritos": 27,
+  "libres": 3
  },
  "350379|1": {
   "codigo": "350379",
@@ -851,8 +851,8 @@
   "nombre": "TALLER DE INICIACIÓN AL BASQUETBOL. - CAMPOS SOBARZO ,FERNANDO ROLANDO",
   "horario": "PRA: LU 11:10 12:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350390|1": {
   "codigo": "350390",
@@ -869,8 +869,8 @@
   "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - CARREÑO HUECHACONA ,MACARENA PATRICIA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 46,
+  "libres": 4
  },
  "350392|1": {
   "codigo": "350392",
@@ -941,8 +941,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 48,
+  "libres": 2
  },
  "350394|1": {
   "codigo": "350394",
