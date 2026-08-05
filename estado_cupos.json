@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 7,
-  "libres": 28
+  "inscritos": 8,
+  "libres": 27
  },
  "340228|1": {
   "codigo": "340228",
@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 35,
-  "inscritos": 25,
-  "libres": 10
+  "inscritos": 26,
+  "libres": 9
  },
  "340305|1": {
   "codigo": "340305",
@@ -59,16 +59,16 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 23,
-  "libres": 12
+  "inscritos": 22,
+  "libres": 13
  },
  "340344|1": {
   "codigo": "340344",
   "seccion": "1",
   "nombre": "INGLÉS INTERMEDIO. - AROS MELZER ,ISABEL DEL PILAR",
   "horario": "TEO: LU 12:40 14:00 A301AC",
-  "cupos": 36,
-  "inscritos": 36,
+  "cupos": 37,
+  "inscritos": 37,
   "libres": 0
  },
  "340344|2": {
@@ -86,8 +86,8 @@
   "nombre": "INGLÉS INTERMEDIO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: MI 08:10 09:30 S102FG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "340345|1": {
   "codigo": "340345",
@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 20,
-  "libres": 15
+  "inscritos": 19,
+  "libres": 16
  },
  "340387|1": {
   "codigo": "340387",
@@ -140,16 +140,16 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "340463|1": {
   "codigo": "340463",
   "seccion": "1",
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
-  "cupos": 50,
-  "inscritos": 50,
+  "cupos": 51,
+  "inscritos": 51,
   "libres": 0
  },
  "340466|1": {
@@ -158,8 +158,8 @@
   "nombre": "ÓPTICAS QUEER EN LA LITERATURA. - AMAYA GONZÁLEZ ,JUAN PABLO",
   "horario": "TEO: JU 09:40 11:00 S101FG",
   "cupos": 35,
-  "inscritos": 12,
-  "libres": 23
+  "inscritos": 11,
+  "libres": 24
  },
  "340469|1": {
   "codigo": "340469",
@@ -167,8 +167,8 @@
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 S208EG",
   "cupos": 35,
-  "inscritos": 17,
-  "libres": 18
+  "inscritos": 18,
+  "libres": 17
  },
  "340474|1": {
   "codigo": "340474",
@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 47,
+  "libres": 3
  },
  "340474|2": {
   "codigo": "340474",
@@ -185,8 +185,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 47,
+  "libres": 3
  },
  "340475|1": {
   "codigo": "340475",
@@ -275,8 +275,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 43,
-  "libres": 7
+  "inscritos": 44,
+  "libres": 6
  },
  "340568|1": {
   "codigo": "340568",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 50,
-  "inscritos": 46,
-  "libres": 4
+  "inscritos": 45,
+  "libres": 5
  },
  "350210|1": {
   "codigo": "350210",
@@ -374,8 +374,8 @@
   "nombre": "TALLER DE DESARROLLO PSICOLÓGICO. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: JU 12:40 14:00 A205AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350217|1": {
   "codigo": "350217",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 34,
+  "libres": 1
  },
  "350222|1": {
   "codigo": "350222",
@@ -428,8 +428,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 50,
+  "libres": 0
  },
  "350263|1": {
   "codigo": "350263",
@@ -464,8 +464,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 34,
-  "inscritos": 33,
-  "libres": 1
+  "inscritos": 34,
+  "libres": 0
  },
  "350285|2": {
   "codigo": "350285",
@@ -491,8 +491,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - ZÚÑIGA QUIERO ",
   "horario": "PRA: LU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 31,
-  "libres": 4
+  "inscritos": 32,
+  "libres": 3
  },
  "350303|2": {
   "codigo": "350303",
@@ -581,8 +581,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "",
   "cupos": 50,
-  "inscritos": 32,
-  "libres": 18
+  "inscritos": 31,
+  "libres": 19
  },
  "350311|9": {
   "codigo": "350311",
@@ -626,8 +626,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
   "horario": "TEO: MI 12:40 14:00 S301AD",
   "cupos": 55,
-  "inscritos": 50,
-  "libres": 5
+  "inscritos": 51,
+  "libres": 4
  },
  "350311|14": {
   "codigo": "350311",
@@ -779,8 +779,8 @@
   "nombre": "TALLER INCLUSIÓN Y DIVERSIDAD. - OTTO MATTA ,KAREN GRETEL VALERIA",
   "horario": "TEO: MI 12:40 14:00 S202AD",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 46,
+  "libres": 4
  },
  "350375|1": {
   "codigo": "350375",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 23,
-  "libres": 7
+  "inscritos": 25,
+  "libres": 5
  },
  "350378|3": {
   "codigo": "350378",
@@ -842,8 +842,8 @@
   "nombre": "TALLER EMPRENDIMIENTOS DE ALTO IMPACTO. - SÁEZ ARTEAGA ,CAMILA FERNANDA",
   "horario": "TEO: VI 11:10 12:30 S301AD",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 47,
+  "libres": 3
  },
  "350388|1": {
   "codigo": "350388",
@@ -887,8 +887,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S203AD",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|2": {
   "codigo": "350392",
