@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 25,
-  "libres": 10
+  "inscritos": 26,
+  "libres": 9
  },
  "340226|2": {
   "codigo": "340226",
@@ -95,8 +95,8 @@
   "nombre": "INGLÉS AVANZADO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: LU 12:40 14:50 S303AD | TEO: MI 11:10 12:30 A207AC",
   "cupos": 35,
-  "inscritos": 20,
-  "libres": 15
+  "inscritos": 19,
+  "libres": 16
  },
  "340379|1": {
   "codigo": "340379",
@@ -140,8 +140,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "340463|1": {
   "codigo": "340463",
@@ -266,8 +266,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 45,
+  "libres": 5
  },
  "340567|2": {
   "codigo": "340567",
@@ -293,8 +293,8 @@
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A307AC",
   "cupos": 50,
-  "inscritos": 41,
-  "libres": 9
+  "inscritos": 43,
+  "libres": 7
  },
  "350140|1": {
   "codigo": "350140",
@@ -302,8 +302,8 @@
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350166|1": {
   "codigo": "350166",
@@ -446,8 +446,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A308AC",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 45,
+  "libres": 5
  },
  "350283|1": {
   "codigo": "350283",
@@ -509,8 +509,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 29,
-  "libres": 6
+  "inscritos": 30,
+  "libres": 5
  },
  "350311|1": {
   "codigo": "350311",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 22,
-  "libres": 8
+  "inscritos": 23,
+  "libres": 7
  },
  "350378|3": {
   "codigo": "350378",
@@ -878,8 +878,8 @@
   "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - CARREÑO HUECHACONA ,MACARENA PATRICIA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 50,
+  "libres": 0
  },
  "350392|1": {
   "codigo": "350392",
@@ -950,8 +950,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350394|1": {
   "codigo": "350394",
