@@ -185,8 +185,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "340475|1": {
   "codigo": "340475",
@@ -293,8 +293,8 @@
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A307AC",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 45,
+  "libres": 5
  },
  "350140|1": {
   "codigo": "350140",
@@ -356,8 +356,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 49,
+  "libres": 1
  },
  "350210|1": {
   "codigo": "350210",
@@ -383,8 +383,8 @@
   "nombre": "TALLER DE TEATRO. - CEBALLOS SÁNCHEZ ,YASNA MARÍA",
   "horario": "TEO: LU 17:10 18:30 Sala de Teatro",
   "cupos": 30,
-  "inscritos": 7,
-  "libres": 23
+  "inscritos": 6,
+  "libres": 24
  },
  "350220|1": {
   "codigo": "350220",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350222|1": {
   "codigo": "350222",
@@ -581,8 +581,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "",
   "cupos": 50,
-  "inscritos": 30,
-  "libres": 20
+  "inscritos": 31,
+  "libres": 19
  },
  "350311|9": {
   "codigo": "350311",
@@ -734,8 +734,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: MI 14:10 15:30 S201AD",
   "cupos": 50,
-  "inscritos": 22,
-  "libres": 28
+  "inscritos": 23,
+  "libres": 27
  },
  "350325|1": {
   "codigo": "350325",
@@ -788,8 +788,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 S102ExIM",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 45,
+  "libres": 5
  },
  "350378|1": {
   "codigo": "350378",
