@@ -50,8 +50,8 @@
   "nombre": "LOS CAMBIOS DEL SIGLO XX. - CONCHA OVIEDO ,HÉCTOR ENRIQUE",
   "horario": "TEO: MA 15:40 17:00 S302AD",
   "cupos": 35,
-  "inscritos": 17,
-  "libres": 18
+  "inscritos": 16,
+  "libres": 19
  },
  "340341|1": {
   "codigo": "340341",
@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 48,
+  "libres": 2
  },
  "340474|2": {
   "codigo": "340474",
@@ -212,8 +212,8 @@
   "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
   "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 16,
-  "libres": 19
+  "inscritos": 15,
+  "libres": 20
  },
  "340481|1": {
   "codigo": "340481",
@@ -439,15 +439,6 @@
   "cupos": 50,
   "inscritos": 46,
   "libres": 4
- },
- "350283|1": {
-  "codigo": "350283",
-  "seccion": "1",
-  "nombre": "TALLER DE AERÓBICA. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
-  "horario": "PRA: MI 11:10 12:30 Gimnasio 1",
-  "cupos": 30,
-  "inscritos": 12,
-  "libres": 18
  },
  "350285|1": {
   "codigo": "350285",
@@ -779,8 +770,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 S102ExIM",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 44,
+  "libres": 6
  },
  "350378|1": {
   "codigo": "350378",
@@ -860,8 +851,8 @@
   "nombre": "TALLER DE ACTIVIDAD FÍSICA Y JUEGOS PREDEPORTIVOS. - CAMPOS SOBARZO ,FERNANDO RO",
   "horario": "PRA: LU 12:40 14:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350391|1": {
   "codigo": "350391",
