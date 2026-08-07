@@ -203,8 +203,8 @@
   "nombre": "ALEMÁN COMUNICACIONAL I . - SLAIBE FERNÁNDEZ ,ERNEST ALEJANDRO",
   "horario": "TEO: LU 12:40 14:00 A207AC | TEO: JU 11:10 12:30 A202AC",
   "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "inscritos": 44,
+  "libres": 1
  },
  "340479|1": {
   "codigo": "340479",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 29,
+  "libres": 6
  },
  "350222|2": {
   "codigo": "350222",
@@ -419,8 +419,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350263|1": {
   "codigo": "350263",
@@ -698,8 +698,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "",
   "cupos": 50,
-  "inscritos": 22,
-  "libres": 28
+  "inscritos": 24,
+  "libres": 26
  },
  "350316|7": {
   "codigo": "350316",
