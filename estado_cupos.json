@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 35,
-  "inscritos": 31,
-  "libres": 4
+  "inscritos": 32,
+  "libres": 3
  },
  "340135|2": {
   "codigo": "340135",
@@ -194,8 +194,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 24,
-  "libres": 11
+  "inscritos": 23,
+  "libres": 12
  },
  "340477|1": {
   "codigo": "340477",
@@ -212,8 +212,8 @@
   "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
   "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 15,
-  "libres": 20
+  "inscritos": 16,
+  "libres": 19
  },
  "340481|1": {
   "codigo": "340481",
@@ -230,8 +230,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "",
   "cupos": 50,
-  "inscritos": 43,
-  "libres": 7
+  "inscritos": 44,
+  "libres": 6
  },
  "340481|3": {
   "codigo": "340481",
@@ -275,8 +275,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 42,
-  "libres": 8
+  "inscritos": 43,
+  "libres": 7
  },
  "340568|1": {
   "codigo": "340568",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 27,
-  "libres": 8
+  "inscritos": 29,
+  "libres": 6
  },
  "350222|2": {
   "codigo": "350222",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "350285|2": {
   "codigo": "350285",
@@ -464,8 +464,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "",
   "cupos": 1,
-  "inscritos": 1,
-  "libres": 0
+  "inscritos": 0,
+  "libres": 1
  },
  "350303|1": {
   "codigo": "350303",
@@ -491,8 +491,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 33,
+  "libres": 2
  },
  "350311|1": {
   "codigo": "350311",
@@ -588,7 +588,7 @@
   "codigo": "350311",
   "seccion": "11",
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - SÁEZ ALARCÓN ,JORGE AN",
-  "horario": "TEO: MI 11:10 12:30 A308AC",
+  "horario": "TEO: LU 12:40 14:00 A204AC",
   "cupos": 55,
   "inscritos": 49,
   "libres": 6
@@ -644,8 +644,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 45,
-  "inscritos": 35,
-  "libres": 10
+  "inscritos": 36,
+  "libres": 9
  },
  "350316|1": {
   "codigo": "350316",
@@ -662,8 +662,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 40,
-  "libres": 10
+  "inscritos": 41,
+  "libres": 9
  },
  "350316|3": {
   "codigo": "350316",
@@ -867,7 +867,7 @@
   "codigo": "350392",
   "seccion": "1",
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
-  "horario": "TEO: MA 08:10 09:30 S203AD",
+  "horario": "TEO: MA 08:10 09:30 S204EG",
   "cupos": 35,
   "inscritos": 35,
   "libres": 0
