@@ -419,8 +419,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350263|1": {
   "codigo": "350263",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350285|2": {
   "codigo": "350285",
@@ -770,8 +770,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 S102ExIM",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 43,
+  "libres": 7
  },
  "350378|1": {
   "codigo": "350378",
@@ -860,8 +860,8 @@
   "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - CARREÑO HUECHACONA ,MACARENA PATRICIA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 47,
+  "libres": 3
  },
  "350392|1": {
   "codigo": "350392",
@@ -941,8 +941,8 @@
   "nombre": "COMUNICACIÓN Y HABILIDADES SOCIALES. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: VI 11:10 12:30 S203AD",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350395|1": {
   "codigo": "350395",
