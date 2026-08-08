@@ -428,8 +428,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350263|2": {
   "codigo": "350263",
@@ -455,8 +455,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 34,
-  "libres": 2
+  "inscritos": 35,
+  "libres": 1
  },
  "350285|3": {
   "codigo": "350285",
