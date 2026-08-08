@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "340474|2": {
   "codigo": "340474",
@@ -194,8 +194,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 25,
-  "libres": 10
+  "inscritos": 26,
+  "libres": 9
  },
  "340477|1": {
   "codigo": "340477",
@@ -644,8 +644,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 45,
-  "inscritos": 39,
-  "libres": 6
+  "inscritos": 40,
+  "libres": 5
  },
  "350316|1": {
   "codigo": "350316",
