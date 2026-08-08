@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
   "cupos": 35,
-  "inscritos": 25,
-  "libres": 10
+  "inscritos": 24,
+  "libres": 11
  },
  "340226|1": {
   "codigo": "340226",
@@ -167,8 +167,8 @@
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 S208EG",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 22,
+  "libres": 13
  },
  "340474|1": {
   "codigo": "340474",
@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "340474|2": {
   "codigo": "340474",
