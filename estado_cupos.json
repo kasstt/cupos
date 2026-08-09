@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 22,
-  "libres": 13
+  "inscritos": 21,
+  "libres": 14
  },
  "340387|1": {
   "codigo": "340387",
@@ -428,8 +428,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 49,
+  "libres": 1
  },
  "350263|2": {
   "codigo": "350263",
@@ -437,8 +437,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A308AC",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 47,
+  "libres": 3
  },
  "350285|1": {
   "codigo": "350285",
@@ -743,8 +743,8 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 28,
-  "inscritos": 27,
-  "libres": 1
+  "inscritos": 28,
+  "libres": 0
  },
  "350369|1": {
   "codigo": "350369",
