@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 31,
+  "libres": 4
  },
  "340305|1": {
   "codigo": "340305",
@@ -473,8 +473,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - ZÚÑIGA QUIERO ",
   "horario": "PRA: LU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "350303|2": {
   "codigo": "350303",
@@ -491,8 +491,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 33,
+  "libres": 2
  },
  "350311|1": {
   "codigo": "350311",
@@ -860,8 +860,8 @@
   "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - CARREÑO HUECHACONA ,MACARENA PATRICIA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 49,
+  "libres": 1
  },
  "350392|1": {
   "codigo": "350392",
