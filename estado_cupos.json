@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 26,
-  "libres": 9
+  "inscritos": 27,
+  "libres": 8
  },
  "340226|2": {
   "codigo": "340226",
@@ -86,8 +86,8 @@
   "nombre": "INGLÉS INTERMEDIO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: MI 08:10 09:30 S102FG",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "340345|1": {
   "codigo": "340345",
@@ -113,8 +113,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "340414|1": {
   "codigo": "340414",
@@ -239,8 +239,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 43,
+  "libres": 7
  },
  "340481|4": {
   "codigo": "340481",
@@ -365,8 +365,8 @@
   "nombre": "COMUNICACIÓN EFECTIVA, LENGUAJE Y PERSUASIÓN. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: JU 12:40 14:00 A204AC",
   "cupos": 51,
-  "inscritos": 50,
-  "libres": 1
+  "inscritos": 49,
+  "libres": 2
  },
  "350213|1": {
   "codigo": "350213",
@@ -383,8 +383,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 31,
-  "libres": 4
+  "inscritos": 32,
+  "libres": 3
  },
  "350222|1": {
   "codigo": "350222",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 29,
+  "libres": 6
  },
  "350222|2": {
   "codigo": "350222",
@@ -401,8 +401,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 28,
-  "libres": 7
+  "inscritos": 29,
+  "libres": 6
  },
  "350260|1": {
   "codigo": "350260",
@@ -428,8 +428,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350263|2": {
   "codigo": "350263",
@@ -473,8 +473,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - ZÚÑIGA QUIERO ",
   "horario": "PRA: LU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "350303|2": {
   "codigo": "350303",
@@ -590,8 +590,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - SÁEZ ALARCÓN ,JORGE AN",
   "horario": "TEO: LU 12:40 14:00 A204AC",
   "cupos": 55,
-  "inscritos": 49,
-  "libres": 6
+  "inscritos": 50,
+  "libres": 5
  },
  "350311|12": {
   "codigo": "350311",
@@ -635,8 +635,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "350315|1": {
   "codigo": "350315",
@@ -770,8 +770,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 S102ExIM",
   "cupos": 50,
-  "inscritos": 43,
-  "libres": 7
+  "inscritos": 44,
+  "libres": 6
  },
  "350378|1": {
   "codigo": "350378",
@@ -788,8 +788,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 26,
-  "libres": 4
+  "inscritos": 27,
+  "libres": 3
  },
  "350378|3": {
   "codigo": "350378",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350380|1": {
   "codigo": "350380",
@@ -833,8 +833,8 @@
   "nombre": "TALLER DE DEFENSA PERSONAL. - ÓRDENES VALENZUELA ,MAURO ISRAEL",
   "horario": "PRA: JU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "350389|1": {
   "codigo": "350389",
@@ -851,8 +851,8 @@
   "nombre": "TALLER DE ACTIVIDAD FÍSICA Y JUEGOS PREDEPORTIVOS. - CAMPOS SOBARZO ,FERNANDO RO",
   "horario": "PRA: LU 12:40 14:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350391|1": {
   "codigo": "350391",
@@ -868,8 +868,8 @@
   "seccion": "1",
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S204EG",
-  "cupos": 35,
-  "inscritos": 35,
+  "cupos": 37,
+  "inscritos": 37,
   "libres": 0
  },
  "350392|2": {
@@ -886,8 +886,8 @@
   "seccion": "3",
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MI 11:10 12:30 A101EG",
-  "cupos": 36,
-  "inscritos": 36,
+  "cupos": 35,
+  "inscritos": 35,
   "libres": 0
  },
  "350392|4": {
@@ -896,34 +896,34 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: JU 08:10 09:30 S201AD",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350392|5": {
   "codigo": "350392",
   "seccion": "5",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
-  "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "cupos": 36,
+  "inscritos": 34,
+  "libres": 2
  },
  "350392|6": {
   "codigo": "350392",
   "seccion": "6",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: VI 12:40 14:00 A102AB",
-  "cupos": 35,
+  "cupos": 36,
   "inscritos": 35,
-  "libres": 0
+  "libres": 1
  },
  "350393|1": {
   "codigo": "350393",
   "seccion": "1",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A207AC",
-  "cupos": 50,
-  "inscritos": 50,
+  "cupos": 51,
+  "inscritos": 51,
   "libres": 0
  },
  "350393|2": {
