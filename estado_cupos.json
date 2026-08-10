@@ -122,8 +122,8 @@
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "340451|1": {
   "codigo": "340451",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 44,
+  "libres": 6
  },
  "340481|2": {
   "codigo": "340481",
@@ -428,8 +428,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350263|2": {
   "codigo": "350263",
@@ -437,8 +437,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A308AC",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 48,
+  "libres": 2
  },
  "350285|1": {
   "codigo": "350285",
