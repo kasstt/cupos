@@ -257,8 +257,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 46,
+  "libres": 4
  },
  "340567|2": {
   "codigo": "340567",
@@ -266,8 +266,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 46,
+  "libres": 4
  },
  "340568|1": {
   "codigo": "340568",
@@ -572,8 +572,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - SÁEZ ALARCÓN ,JORGE AN",
   "horario": "TEO: LU 11:10 12:30 S203AD",
   "cupos": 50,
-  "inscritos": 27,
-  "libres": 23
+  "inscritos": 28,
+  "libres": 22
  },
  "350311|11": {
   "codigo": "350311",
@@ -635,8 +635,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 45,
-  "inscritos": 40,
-  "libres": 5
+  "inscritos": 39,
+  "libres": 6
  },
  "350316|1": {
   "codigo": "350316",
@@ -707,8 +707,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: MI 14:10 15:30 S201AD",
   "cupos": 50,
-  "inscritos": 32,
-  "libres": 18
+  "inscritos": 33,
+  "libres": 17
  },
  "350325|1": {
   "codigo": "350325",
