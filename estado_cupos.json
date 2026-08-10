@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 40,
-  "inscritos": 38,
-  "libres": 2
+  "inscritos": 39,
+  "libres": 1
  },
  "340305|1": {
   "codigo": "340305",
@@ -131,8 +131,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 17:10 18:30 A102AC",
   "cupos": 36,
-  "inscritos": 36,
-  "libres": 0
+  "inscritos": 35,
+  "libres": 1
  },
  "340451|2": {
   "codigo": "340451",
@@ -284,8 +284,8 @@
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A307AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350140|1": {
   "codigo": "350140",
@@ -419,8 +419,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350263|2": {
   "codigo": "350263",
@@ -644,8 +644,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 48,
+  "libres": 2
  },
  "350316|2": {
   "codigo": "350316",
