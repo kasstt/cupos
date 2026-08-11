@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 16,
-  "libres": 19
+  "inscritos": 19,
+  "libres": 16
  },
  "340228|1": {
   "codigo": "340228",
@@ -59,8 +59,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 20,
+  "libres": 15
  },
  "340344|1": {
   "codigo": "340344",
@@ -122,8 +122,8 @@
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
   "cupos": 40,
-  "inscritos": 40,
-  "libres": 0
+  "inscritos": 39,
+  "libres": 1
  },
  "340451|1": {
   "codigo": "340451",
@@ -212,8 +212,8 @@
   "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
   "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 13,
-  "libres": 22
+  "inscritos": 14,
+  "libres": 21
  },
  "340481|1": {
   "codigo": "340481",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 43,
-  "libres": 7
+  "inscritos": 45,
+  "libres": 5
  },
  "340481|2": {
   "codigo": "340481",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 27,
-  "libres": 8
+  "inscritos": 28,
+  "libres": 7
  },
  "350260|1": {
   "codigo": "350260",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 34,
-  "libres": 2
+  "inscritos": 35,
+  "libres": 1
  },
  "350285|3": {
   "codigo": "350285",
@@ -464,8 +464,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - ZÚÑIGA QUIERO ",
   "horario": "PRA: LU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350303|2": {
   "codigo": "350303",
@@ -482,8 +482,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 32,
+  "libres": 3
  },
  "350311|1": {
   "codigo": "350311",
@@ -635,8 +635,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 44,
+  "libres": 1
  },
  "350316|1": {
   "codigo": "350316",
@@ -653,8 +653,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 41,
-  "libres": 9
+  "inscritos": 40,
+  "libres": 10
  },
  "350316|3": {
   "codigo": "350316",
@@ -689,8 +689,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 11:10 12:30 S303AD",
   "cupos": 50,
-  "inscritos": 29,
-  "libres": 21
+  "inscritos": 30,
+  "libres": 20
  },
  "350316|7": {
   "codigo": "350316",
@@ -725,8 +725,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 27,
-  "libres": 3
+  "inscritos": 30,
+  "libres": 0
  },
  "350362|1": {
   "codigo": "350362",
@@ -734,8 +734,8 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 28,
-  "inscritos": 26,
-  "libres": 2
+  "inscritos": 27,
+  "libres": 1
  },
  "350369|1": {
   "codigo": "350369",
@@ -743,8 +743,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 36,
-  "libres": 0
+  "inscritos": 35,
+  "libres": 1
  },
  "350374|1": {
   "codigo": "350374",
@@ -761,8 +761,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 S102ExIM",
   "cupos": 50,
-  "inscritos": 41,
-  "libres": 9
+  "inscritos": 38,
+  "libres": 12
  },
  "350378|1": {
   "codigo": "350378",
@@ -779,8 +779,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 25,
-  "libres": 5
+  "inscritos": 24,
+  "libres": 6
  },
  "350378|3": {
   "codigo": "350378",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE INICIACIÓN AL FÚTBOL. - MARDONES BARAHONA ,DAISY AILEEN",
   "horario": "PRA: MI 11:10 12:30 Cancha Fútbol",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350386|1": {
   "codigo": "350386",
@@ -824,8 +824,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 17,
-  "libres": 53
+  "inscritos": 16,
+  "libres": 54
  },
  "350388|1": {
   "codigo": "350388",
@@ -833,8 +833,8 @@
   "nombre": "TALLER DE DEFENSA PERSONAL. - ÓRDENES VALENZUELA ,MAURO ISRAEL",
   "horario": "PRA: JU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 31,
+  "libres": 4
  },
  "350389|1": {
   "codigo": "350389",
@@ -869,8 +869,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S204EG",
   "cupos": 37,
-  "inscritos": 35,
-  "libres": 2
+  "inscritos": 37,
+  "libres": 0
  },
  "350392|2": {
   "codigo": "350392",
@@ -878,17 +878,17 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 09:40 11:00 A101EG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|3": {
   "codigo": "350392",
   "seccion": "3",
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MI 11:10 12:30 A101EG",
-  "cupos": 35,
+  "cupos": 36,
   "inscritos": 35,
-  "libres": 0
+  "libres": 1
  },
  "350392|4": {
   "codigo": "350392",
