@@ -410,8 +410,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350263|1": {
   "codigo": "350263",
@@ -626,8 +626,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 43,
+  "libres": 2
  },
  "350315|1": {
   "codigo": "350315",
@@ -869,8 +869,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 09:40 11:00 A101EG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|3": {
   "codigo": "350392",
