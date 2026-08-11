@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 17,
-  "libres": 18
+  "inscritos": 16,
+  "libres": 19
  },
  "340228|1": {
   "codigo": "340228",
@@ -122,8 +122,8 @@
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
   "cupos": 40,
-  "inscritos": 39,
-  "libres": 1
+  "inscritos": 40,
+  "libres": 0
  },
  "340451|1": {
   "codigo": "340451",
@@ -185,8 +185,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "340475|1": {
   "codigo": "340475",
@@ -212,8 +212,8 @@
   "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
   "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 14,
-  "libres": 21
+  "inscritos": 13,
+  "libres": 22
  },
  "340481|1": {
   "codigo": "340481",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 42,
-  "libres": 8
+  "inscritos": 43,
+  "libres": 7
  },
  "340481|2": {
   "codigo": "340481",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 28,
-  "libres": 7
+  "inscritos": 27,
+  "libres": 8
  },
  "350260|1": {
   "codigo": "350260",
@@ -401,8 +401,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 14:10 15:30 S302AD",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 50,
+  "libres": 0
  },
  "350260|2": {
   "codigo": "350260",
@@ -419,8 +419,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A308AC",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350263|2": {
   "codigo": "350263",
@@ -482,8 +482,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 33,
+  "libres": 2
  },
  "350311|1": {
   "codigo": "350311",
@@ -635,8 +635,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 43,
+  "libres": 2
  },
  "350316|1": {
   "codigo": "350316",
@@ -779,8 +779,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 26,
-  "libres": 4
+  "inscritos": 25,
+  "libres": 5
  },
  "350378|3": {
   "codigo": "350378",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE INICIACIÓN AL FÚTBOL. - MARDONES BARAHONA ,DAISY AILEEN",
   "horario": "PRA: MI 11:10 12:30 Cancha Fútbol",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350386|1": {
   "codigo": "350386",
@@ -824,8 +824,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 13,
-  "libres": 57
+  "inscritos": 17,
+  "libres": 53
  },
  "350388|1": {
   "codigo": "350388",
@@ -896,8 +896,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: JU 08:10 09:30 S201AD",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350392|5": {
   "codigo": "350392",
@@ -914,8 +914,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: VI 12:40 14:00 A102AB",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350393|1": {
   "codigo": "350393",
