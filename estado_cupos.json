@@ -626,8 +626,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 42,
+  "libres": 3
  },
  "350315|1": {
   "codigo": "350315",
@@ -725,8 +725,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 28,
+  "libres": 2
  },
  "350362|1": {
   "codigo": "350362",
@@ -806,8 +806,8 @@
   "nombre": "TALLER DE INICIACIÓN AL FÚTBOL. - MARDONES BARAHONA ,DAISY AILEEN",
   "horario": "PRA: MI 11:10 12:30 Cancha Fútbol",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350386|1": {
   "codigo": "350386",
@@ -860,8 +860,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S204EG",
   "cupos": 37,
-  "inscritos": 36,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 2
  },
  "350392|2": {
   "codigo": "350392",
