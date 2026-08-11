@@ -86,8 +86,8 @@
   "nombre": "INGLÉS AVANZADO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: LU 12:40 14:50 S303AD | TEO: MI 11:10 12:30 A207AC",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 20,
+  "libres": 15
  },
  "340379|1": {
   "codigo": "340379",
@@ -329,8 +329,8 @@
   "nombre": "COMUNICACIÓN EFECTIVA, LENGUAJE Y PERSUASIÓN. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: JU 12:40 14:00 A204AC",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
+  "inscritos": 50,
+  "libres": 1
  },
  "350213|1": {
   "codigo": "350213",
@@ -644,8 +644,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
   "horario": "TEO: LU 12:40 14:00 S201AD",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350316|5": {
   "codigo": "350316",
@@ -779,8 +779,8 @@
   "nombre": "TALLER DE INICIACIÓN AL FÚTBOL. - MARDONES BARAHONA ,DAISY AILEEN",
   "horario": "PRA: MI 11:10 12:30 Cancha Fútbol",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "350386|1": {
   "codigo": "350386",
