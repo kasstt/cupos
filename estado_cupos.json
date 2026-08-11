@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "340135|2": {
   "codigo": "340135",
@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
   "cupos": 35,
-  "inscritos": 23,
-  "libres": 12
+  "inscritos": 26,
+  "libres": 9
  },
  "340226|1": {
   "codigo": "340226",
@@ -131,8 +131,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 17:10 18:30 A102AC",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 34,
+  "libres": 2
  },
  "340451|2": {
   "codigo": "340451",
@@ -149,8 +149,8 @@
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
   "cupos": 51,
-  "inscritos": 50,
-  "libres": 1
+  "inscritos": 51,
+  "libres": 0
  },
  "340466|1": {
   "codigo": "340466",
@@ -257,8 +257,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 46,
-  "libres": 4
+  "inscritos": 45,
+  "libres": 5
  },
  "340567|2": {
   "codigo": "340567",
@@ -347,8 +347,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 48,
+  "libres": 2
  },
  "350210|1": {
   "codigo": "350210",
@@ -383,8 +383,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 29,
+  "libres": 6
  },
  "350222|2": {
   "codigo": "350222",
@@ -563,8 +563,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - SÁEZ ALARCÓN ,JORGE AN",
   "horario": "",
   "cupos": 50,
-  "inscritos": 41,
-  "libres": 9
+  "inscritos": 42,
+  "libres": 8
  },
  "350311|10": {
   "codigo": "350311",
@@ -689,8 +689,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 11:10 12:30 S303AD",
   "cupos": 50,
-  "inscritos": 25,
-  "libres": 25
+  "inscritos": 26,
+  "libres": 24
  },
  "350316|7": {
   "codigo": "350316",
@@ -725,8 +725,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 28,
-  "libres": 2
+  "inscritos": 30,
+  "libres": 0
  },
  "350362|1": {
   "codigo": "350362",
@@ -770,8 +770,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 30,
+  "libres": 0
  },
  "350378|2": {
   "codigo": "350378",
@@ -797,8 +797,8 @@
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "350380|1": {
   "codigo": "350380",
@@ -869,8 +869,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 09:40 11:00 A101EG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|3": {
   "codigo": "350392",
