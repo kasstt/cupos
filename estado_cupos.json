@@ -365,8 +365,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 28,
-  "libres": 7
+  "inscritos": 30,
+  "libres": 5
  },
  "350260|1": {
   "codigo": "350260",
@@ -455,8 +455,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 30,
+  "libres": 5
  },
  "350311|1": {
   "codigo": "350311",
@@ -599,8 +599,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 42,
+  "libres": 3
  },
  "350315|1": {
   "codigo": "350315",
@@ -707,8 +707,8 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 28,
-  "inscritos": 27,
-  "libres": 1
+  "inscritos": 28,
+  "libres": 0
  },
  "350369|1": {
   "codigo": "350369",
@@ -743,8 +743,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 27,
-  "libres": 3
+  "inscritos": 26,
+  "libres": 4
  },
  "350378|2": {
   "codigo": "350378",
@@ -860,8 +860,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MI 11:10 12:30 A101EG",
   "cupos": 36,
-  "inscritos": 36,
-  "libres": 0
+  "inscritos": 35,
+  "libres": 1
  },
  "350392|4": {
   "codigo": "350392",
