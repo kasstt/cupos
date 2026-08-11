@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 26,
-  "libres": 9
+  "inscritos": 25,
+  "libres": 10
  },
  "340226|2": {
   "codigo": "340226",
@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 17,
-  "libres": 18
+  "inscritos": 18,
+  "libres": 17
  },
  "340228|1": {
   "codigo": "340228",
@@ -50,8 +50,8 @@
   "nombre": "LOS CAMBIOS DEL SIGLO XX. - CONCHA OVIEDO ,HÉCTOR ENRIQUE",
   "horario": "TEO: MA 15:40 17:00 S302AD",
   "cupos": 35,
-  "inscritos": 16,
-  "libres": 19
+  "inscritos": 15,
+  "libres": 20
  },
  "340341|1": {
   "codigo": "340341",
@@ -140,8 +140,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "340463|1": {
   "codigo": "340463",
@@ -194,8 +194,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 29,
-  "libres": 6
+  "inscritos": 30,
+  "libres": 5
  },
  "340477|1": {
   "codigo": "340477",
@@ -212,8 +212,8 @@
   "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
   "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 15,
-  "libres": 20
+  "inscritos": 14,
+  "libres": 21
  },
  "340481|1": {
   "codigo": "340481",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 41,
-  "libres": 9
+  "inscritos": 40,
+  "libres": 10
  },
  "340481|2": {
   "codigo": "340481",
@@ -237,7 +237,7 @@
   "codigo": "340481",
   "seccion": "3",
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
-  "horario": "",
+  "horario": "TEO: LU 12:40 14:00 S202AD",
   "cupos": 50,
   "inscritos": 43,
   "libres": 7
@@ -266,8 +266,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 46,
-  "libres": 4
+  "inscritos": 47,
+  "libres": 3
  },
  "340568|1": {
   "codigo": "340568",
@@ -347,8 +347,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350210|1": {
   "codigo": "350210",
@@ -365,8 +365,8 @@
   "nombre": "TALLER DE DESARROLLO PSICOLÓGICO. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: JU 12:40 14:00 A205AC",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
+  "inscritos": 50,
+  "libres": 1
  },
  "350220|1": {
   "codigo": "350220",
@@ -374,8 +374,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "350222|1": {
   "codigo": "350222",
@@ -383,8 +383,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 28,
-  "libres": 7
+  "inscritos": 29,
+  "libres": 6
  },
  "350222|2": {
   "codigo": "350222",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 33,
-  "libres": 3
+  "inscritos": 32,
+  "libres": 4
  },
  "350285|3": {
   "codigo": "350285",
@@ -552,7 +552,7 @@
   "codigo": "350311",
   "seccion": "8",
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
-  "horario": "",
+  "horario": "TEO: LU 16:20 17:50 S101ExIM",
   "cupos": 50,
   "inscritos": 31,
   "libres": 19
@@ -606,7 +606,7 @@
   "codigo": "350311",
   "seccion": "14",
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
-  "horario": "TEO: MI 12:40 14:00 S302AD",
+  "horario": "TEO: MA 12:40 14:00 A308AC | TEO: MI 12:40 14:00 S302AD",
   "cupos": 50,
   "inscritos": 30,
   "libres": 20
@@ -626,8 +626,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 44,
+  "libres": 1
  },
  "350315|1": {
   "codigo": "350315",
@@ -669,7 +669,7 @@
   "codigo": "350316",
   "seccion": "4",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
-  "horario": "",
+  "horario": "TEO: LU 12:40 14:00 S201AD",
   "cupos": 50,
   "inscritos": 50,
   "libres": 0
@@ -678,7 +678,7 @@
   "codigo": "350316",
   "seccion": "5",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
-  "horario": "",
+  "horario": "TEO: LU 14:10 15:30 S102ExIM",
   "cupos": 50,
   "inscritos": 28,
   "libres": 22
@@ -725,8 +725,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 27,
+  "libres": 3
  },
  "350362|1": {
   "codigo": "350362",
@@ -770,8 +770,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 28,
+  "libres": 2
  },
  "350378|2": {
   "codigo": "350378",
@@ -779,8 +779,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 28,
-  "libres": 2
+  "inscritos": 27,
+  "libres": 3
  },
  "350378|3": {
   "codigo": "350378",
@@ -923,8 +923,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A207AC",
   "cupos": 52,
-  "inscritos": 52,
-  "libres": 0
+  "inscritos": 51,
+  "libres": 1
  },
  "350393|2": {
   "codigo": "350393",
@@ -932,8 +932,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350394|1": {
   "codigo": "350394",
