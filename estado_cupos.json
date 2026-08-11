@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 32,
+  "libres": 3
  },
  "340135|2": {
   "codigo": "340135",
@@ -43,15 +43,6 @@
   "cupos": 40,
   "inscritos": 40,
   "libres": 0
- },
- "340305|1": {
-  "codigo": "340305",
-  "seccion": "1",
-  "nombre": "LOS CAMBIOS DEL SIGLO XX. - CONCHA OVIEDO ,HÉCTOR ENRIQUE",
-  "horario": "TEO: MA 15:40 17:00 S302AD",
-  "cupos": 35,
-  "inscritos": 17,
-  "libres": 18
  },
  "340341|1": {
   "codigo": "340341",
@@ -104,8 +95,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 22,
+  "libres": 13
  },
  "340387|1": {
   "codigo": "340387",
@@ -113,8 +104,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 42,
+  "libres": 3
  },
  "340414|1": {
   "codigo": "340414",
@@ -149,17 +140,8 @@
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
- },
- "340466|1": {
-  "codigo": "340466",
-  "seccion": "1",
-  "nombre": "ÓPTICAS QUEER EN LA LITERATURA. - AMAYA GONZÁLEZ ,JUAN PABLO",
-  "horario": "TEO: JU 09:40 11:00 S101FG",
-  "cupos": 35,
-  "inscritos": 11,
-  "libres": 24
+  "inscritos": 50,
+  "libres": 1
  },
  "340469|1": {
   "codigo": "340469",
@@ -185,8 +167,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "340475|1": {
   "codigo": "340475",
@@ -205,15 +187,6 @@
   "cupos": 47,
   "inscritos": 47,
   "libres": 0
- },
- "340479|1": {
-  "codigo": "340479",
-  "seccion": "1",
-  "nombre": "MANIFESTACIONES ARTÍSTICAS Y CULTURALES DE AMÉRICA LATINA . - OSTRIA REINOSO ,OL",
-  "horario": "TEO: LU 12:40 14:00 S101FG | TEO: MI 12:40 14:00 S101FG",
-  "cupos": 35,
-  "inscritos": 15,
-  "libres": 20
  },
  "340481|1": {
   "codigo": "340481",
@@ -246,7 +219,7 @@
   "codigo": "340481",
   "seccion": "4",
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
-  "horario": "",
+  "horario": "TEO: LU 12:40 14:00 S301AD",
   "cupos": 50,
   "inscritos": 19,
   "libres": 31
@@ -282,7 +255,7 @@
   "codigo": "350131",
   "seccion": "1",
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
-  "horario": "TEO: MI 12:40 14:00 A307AC",
+  "horario": "TEO: MI 12:40 14:00 A101AA",
   "cupos": 52,
   "inscritos": 52,
   "libres": 0
@@ -383,8 +356,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 25,
-  "libres": 10
+  "inscritos": 24,
+  "libres": 11
  },
  "350222|2": {
   "codigo": "350222",
@@ -401,8 +374,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 14:10 15:30 S302AD",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350260|2": {
   "codigo": "350260",
@@ -446,8 +419,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350285|3": {
   "codigo": "350285",
@@ -743,8 +716,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350374|1": {
   "codigo": "350374",
@@ -959,7 +932,7 @@
   "nombre": "TALLER DE COMUNICACIÓN JURÍDICA ORAL Y ESCRITA. - ESPEJO FLORES ,HÉCTOR LUIS",
   "horario": "TEO: MI 17:10 18:30 A104AC",
   "cupos": 30,
-  "inscritos": 17,
-  "libres": 13
+  "inscritos": 16,
+  "libres": 14
  }
 }
