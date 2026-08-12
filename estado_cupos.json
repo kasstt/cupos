@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "340135|2": {
   "codigo": "340135",
@@ -50,8 +50,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 22,
-  "libres": 13
+  "inscritos": 24,
+  "libres": 11
  },
  "340344|1": {
   "codigo": "340344",
@@ -140,8 +140,8 @@
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
   "cupos": 51,
-  "inscritos": 49,
-  "libres": 2
+  "inscritos": 50,
+  "libres": 1
  },
  "340469|1": {
   "codigo": "340469",
@@ -257,8 +257,8 @@
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A101AA",
   "cupos": 52,
-  "inscritos": 49,
-  "libres": 3
+  "inscritos": 51,
+  "libres": 1
  },
  "350140|1": {
   "codigo": "350140",
@@ -347,8 +347,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 31,
+  "libres": 4
  },
  "350222|1": {
   "codigo": "350222",
@@ -365,8 +365,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 26,
-  "libres": 9
+  "inscritos": 25,
+  "libres": 10
  },
  "350260|1": {
   "codigo": "350260",
@@ -401,8 +401,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A308AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350285|1": {
   "codigo": "350285",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - BURGOS MONROY ",
   "horario": "PRA: MI 09:40 11:00 Gimnasio 1",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350303|3": {
   "codigo": "350303",
@@ -599,8 +599,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 44,
+  "libres": 1
  },
  "350315|1": {
   "codigo": "350315",
@@ -608,8 +608,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 46,
+  "libres": 4
  },
  "350316|1": {
   "codigo": "350316",
@@ -626,8 +626,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 39,
-  "libres": 11
+  "inscritos": 38,
+  "libres": 12
  },
  "350316|3": {
   "codigo": "350316",
@@ -734,8 +734,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 S102ExIM",
   "cupos": 50,
-  "inscritos": 40,
-  "libres": 10
+  "inscritos": 39,
+  "libres": 11
  },
  "350378|1": {
   "codigo": "350378",
@@ -752,8 +752,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 24,
-  "libres": 6
+  "inscritos": 25,
+  "libres": 5
  },
  "350378|3": {
   "codigo": "350378",
@@ -877,8 +877,8 @@
   "seccion": "5",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
-  "cupos": 36,
-  "inscritos": 36,
+  "cupos": 37,
+  "inscritos": 37,
   "libres": 0
  },
  "350392|6": {
