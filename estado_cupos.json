@@ -50,8 +50,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 20,
-  "libres": 15
+  "inscritos": 21,
+  "libres": 14
  },
  "340344|1": {
   "codigo": "340344",
@@ -149,8 +149,8 @@
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 S208EG",
   "cupos": 35,
-  "inscritos": 21,
-  "libres": 14
+  "inscritos": 22,
+  "libres": 13
  },
  "340474|1": {
   "codigo": "340474",
@@ -257,8 +257,8 @@
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A101AA",
   "cupos": 52,
-  "inscritos": 52,
-  "libres": 0
+  "inscritos": 51,
+  "libres": 1
  },
  "350140|1": {
   "codigo": "350140",
