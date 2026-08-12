@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 17,
-  "libres": 18
+  "inscritos": 18,
+  "libres": 17
  },
  "340228|1": {
   "codigo": "340228",
@@ -95,8 +95,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 22,
-  "libres": 13
+  "inscritos": 23,
+  "libres": 12
  },
  "340387|1": {
   "codigo": "340387",
@@ -149,8 +149,8 @@
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 S208EG",
   "cupos": 35,
-  "inscritos": 22,
-  "libres": 13
+  "inscritos": 23,
+  "libres": 12
  },
  "340474|1": {
   "codigo": "340474",
@@ -158,8 +158,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 49,
+  "libres": 1
  },
  "340474|2": {
   "codigo": "340474",
@@ -257,8 +257,8 @@
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A101AA",
   "cupos": 52,
-  "inscritos": 51,
-  "libres": 1
+  "inscritos": 49,
+  "libres": 3
  },
  "350140|1": {
   "codigo": "350140",
@@ -320,8 +320,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350210|1": {
   "codigo": "350210",
@@ -419,8 +419,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350285|3": {
   "codigo": "350285",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - BURGOS MONROY ",
   "horario": "PRA: MI 09:40 11:00 Gimnasio 1",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350303|3": {
   "codigo": "350303",
@@ -607,9 +607,9 @@
   "seccion": "1",
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
-  "cupos": 45,
+  "cupos": 50,
   "inscritos": 44,
-  "libres": 1
+  "libres": 6
  },
  "350316|1": {
   "codigo": "350316",
@@ -698,8 +698,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 30,
-  "libres": 0
+  "inscritos": 29,
+  "libres": 1
  },
  "350362|1": {
   "codigo": "350362",
@@ -707,8 +707,8 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 28,
-  "inscritos": 27,
-  "libres": 1
+  "inscritos": 28,
+  "libres": 0
  },
  "350369|1": {
   "codigo": "350369",
@@ -716,8 +716,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350374|1": {
   "codigo": "350374",
@@ -761,8 +761,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 30,
-  "libres": 0
+  "inscritos": 29,
+  "libres": 1
  },
  "350379|1": {
   "codigo": "350379",
@@ -770,8 +770,8 @@
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350380|1": {
   "codigo": "350380",
@@ -797,8 +797,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 20,
-  "libres": 50
+  "inscritos": 19,
+  "libres": 51
  },
  "350388|1": {
   "codigo": "350388",
@@ -824,13 +824,13 @@
   "nombre": "TALLER DE ACTIVIDAD FÍSICA Y JUEGOS PREDEPORTIVOS. - CAMPOS SOBARZO ,FERNANDO RO",
   "horario": "PRA: LU 12:40 14:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350391|1": {
   "codigo": "350391",
   "seccion": "1",
-  "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - CARREÑO HUECHACONA ,MACARENA PATRICIA",
+  "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - DELGADO HORMAZÁBAL ,ALICIA ALEJANDRA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
   "cupos": 50,
   "inscritos": 50,
@@ -851,8 +851,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 09:40 11:00 A101EG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|3": {
   "codigo": "350392",
@@ -868,8 +868,8 @@
   "seccion": "4",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: JU 08:10 09:30 S201AD",
-  "cupos": 36,
-  "inscritos": 36,
+  "cupos": 37,
+  "inscritos": 37,
   "libres": 0
  },
  "350392|5": {
