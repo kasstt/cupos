@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 31,
+  "libres": 4
  },
  "340226|1": {
   "codigo": "340226",
@@ -194,8 +194,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 46,
+  "libres": 4
  },
  "340481|2": {
   "codigo": "340481",
@@ -383,8 +383,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350263|1": {
   "codigo": "350263",
@@ -644,8 +644,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
   "horario": "TEO: LU 12:40 14:00 S201AD",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
+  "inscritos": 50,
+  "libres": 1
  },
  "350316|5": {
   "codigo": "350316",
@@ -653,8 +653,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
   "horario": "TEO: LU 14:10 15:30 S102ExIM",
   "cupos": 50,
-  "inscritos": 28,
-  "libres": 22
+  "inscritos": 29,
+  "libres": 21
  },
  "350316|6": {
   "codigo": "350316",
@@ -725,8 +725,8 @@
   "nombre": "TALLER INCLUSIÓN Y DIVERSIDAD. - OTTO MATTA ,KAREN GRETEL VALERIA",
   "horario": "TEO: MI 12:40 14:00 S202AD",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350375|1": {
   "codigo": "350375",
