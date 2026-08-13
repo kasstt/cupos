@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
   "cupos": 35,
-  "inscritos": 31,
-  "libres": 4
+  "inscritos": 32,
+  "libres": 3
  },
  "340226|1": {
   "codigo": "340226",
@@ -95,8 +95,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 22,
-  "libres": 13
+  "inscritos": 23,
+  "libres": 12
  },
  "340387|1": {
   "codigo": "340387",
@@ -176,8 +176,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 31,
-  "libres": 4
+  "inscritos": 32,
+  "libres": 3
  },
  "340477|1": {
   "codigo": "340477",
@@ -338,8 +338,8 @@
   "nombre": "TALLER DE DESARROLLO PSICOLÓGICO. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: JU 12:40 14:00 A205AC",
   "cupos": 52,
-  "inscritos": 51,
-  "libres": 1
+  "inscritos": 52,
+  "libres": 0
  },
  "350220|1": {
   "codigo": "350220",
@@ -347,8 +347,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 31,
-  "libres": 4
+  "inscritos": 32,
+  "libres": 3
  },
  "350222|1": {
   "codigo": "350222",
@@ -599,8 +599,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 42,
-  "inscritos": 41,
-  "libres": 1
+  "inscritos": 42,
+  "libres": 0
  },
  "350315|1": {
   "codigo": "350315",
@@ -716,8 +716,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 36,
-  "libres": 0
+  "inscritos": 35,
+  "libres": 1
  },
  "350374|1": {
   "codigo": "350374",
@@ -797,8 +797,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 35,
-  "libres": 35
+  "inscritos": 37,
+  "libres": 33
  },
  "350388|1": {
   "codigo": "350388",
@@ -894,7 +894,7 @@
   "codigo": "350393",
   "seccion": "1",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
-  "horario": "TEO: MA 12:40 14:00 A207AC",
+  "horario": "TEO: MA 12:40 14:00 A102AC",
   "cupos": 52,
   "inscritos": 52,
   "libres": 0
