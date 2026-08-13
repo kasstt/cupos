@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 26,
-  "libres": 9
+  "inscritos": 25,
+  "libres": 10
  },
  "340226|2": {
   "codigo": "340226",
@@ -122,8 +122,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 17:10 18:30 A102AC",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "340451|2": {
   "codigo": "340451",
@@ -239,8 +239,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 43,
+  "libres": 7
  },
  "340568|1": {
   "codigo": "340568",
@@ -320,8 +320,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350210|1": {
   "codigo": "350210",
@@ -527,8 +527,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "TEO: LU 16:20 17:50 S101ExIM",
   "cupos": 50,
-  "inscritos": 31,
-  "libres": 19
+  "inscritos": 34,
+  "libres": 16
  },
  "350311|9": {
   "codigo": "350311",
@@ -536,8 +536,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - SÁEZ ALARCÓN ,JORGE AN",
   "horario": "",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 46,
+  "libres": 4
  },
  "350311|10": {
   "codigo": "350311",
@@ -608,8 +608,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 50,
-  "inscritos": 46,
-  "libres": 4
+  "inscritos": 47,
+  "libres": 3
  },
  "350316|1": {
   "codigo": "350316",
@@ -617,8 +617,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 47,
+  "libres": 3
  },
  "350316|2": {
   "codigo": "350316",
@@ -662,8 +662,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: LU 11:10 12:30 S303AD",
   "cupos": 50,
-  "inscritos": 32,
-  "libres": 18
+  "inscritos": 33,
+  "libres": 17
  },
  "350316|7": {
   "codigo": "350316",
@@ -689,8 +689,8 @@
   "nombre": "TALLER DE PILATES PARA LA SALUD. - BURGOS MONROY ,ROMINA PATRICIA",
   "horario": "PRA: JU 11:10 12:30 Sala Taller 3",
   "cupos": 31,
-  "inscritos": 31,
-  "libres": 0
+  "inscritos": 30,
+  "libres": 1
  },
  "350361|1": {
   "codigo": "350361",
@@ -734,8 +734,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 S102ExIM",
   "cupos": 50,
-  "inscritos": 38,
-  "libres": 12
+  "inscritos": 37,
+  "libres": 13
  },
  "350378|1": {
   "codigo": "350378",
@@ -761,8 +761,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 30,
-  "libres": 0
+  "inscritos": 29,
+  "libres": 1
  },
  "350379|1": {
   "codigo": "350379",
@@ -896,8 +896,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A207AC",
   "cupos": 52,
-  "inscritos": 51,
-  "libres": 1
+  "inscritos": 52,
+  "libres": 0
  },
  "350393|2": {
   "codigo": "350393",
