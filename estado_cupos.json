@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "340135|2": {
   "codigo": "340135",
@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 27,
-  "libres": 8
+  "inscritos": 26,
+  "libres": 9
  },
  "340226|2": {
   "codigo": "340226",
@@ -50,8 +50,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 35,
-  "inscritos": 27,
-  "libres": 8
+  "inscritos": 28,
+  "libres": 7
  },
  "340344|1": {
   "codigo": "340344",
@@ -140,8 +140,8 @@
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
   "cupos": 51,
-  "inscritos": 50,
-  "libres": 1
+  "inscritos": 51,
+  "libres": 0
  },
  "340469|1": {
   "codigo": "340469",
@@ -356,8 +356,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 24,
-  "libres": 11
+  "inscritos": 23,
+  "libres": 12
  },
  "350222|2": {
   "codigo": "350222",
@@ -896,8 +896,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A207AC",
   "cupos": 52,
-  "inscritos": 52,
-  "libres": 0
+  "inscritos": 51,
+  "libres": 1
  },
  "350393|2": {
   "codigo": "350393",
@@ -905,8 +905,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350394|1": {
   "codigo": "350394",
