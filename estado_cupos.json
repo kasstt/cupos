@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "340135|2": {
   "codigo": "340135",
@@ -320,8 +320,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 48,
+  "libres": 2
  },
  "350210|1": {
   "codigo": "350210",
@@ -383,14 +383,14 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 48,
+  "libres": 2
  },
  "350263|1": {
   "codigo": "350263",
   "seccion": "1",
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
-  "horario": "TEO: MI 12:40 14:00 A308AC",
+  "horario": "TEO: MI 12:40 14:00 A101AC",
   "cupos": 50,
   "inscritos": 50,
   "libres": 0
@@ -399,7 +399,7 @@
   "codigo": "350263",
   "seccion": "2",
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
-  "horario": "TEO: MI 14:10 15:30 A308AC",
+  "horario": "TEO: MI 14:10 15:30 A102AA",
   "cupos": 50,
   "inscritos": 50,
   "libres": 0
@@ -689,8 +689,8 @@
   "nombre": "TALLER DE PILATES PARA LA SALUD. - BURGOS MONROY ,ROMINA PATRICIA",
   "horario": "PRA: JU 11:10 12:30 Sala Taller 3",
   "cupos": 31,
-  "inscritos": 30,
-  "libres": 1
+  "inscritos": 29,
+  "libres": 2
  },
  "350361|1": {
   "codigo": "350361",
@@ -715,8 +715,8 @@
   "seccion": "1",
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
-  "cupos": 36,
-  "inscritos": 36,
+  "cupos": 37,
+  "inscritos": 37,
   "libres": 0
  },
  "350374|1": {
@@ -734,8 +734,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 A106AC",
   "cupos": 50,
-  "inscritos": 37,
-  "libres": 13
+  "inscritos": 36,
+  "libres": 14
  },
  "350378|1": {
   "codigo": "350378",
@@ -743,8 +743,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 27,
-  "libres": 3
+  "inscritos": 26,
+  "libres": 4
  },
  "350378|2": {
   "codigo": "350378",
@@ -760,17 +760,17 @@
   "seccion": "3",
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
-  "cupos": 30,
+  "cupos": 32,
   "inscritos": 29,
-  "libres": 1
+  "libres": 3
  },
  "350379|1": {
   "codigo": "350379",
   "seccion": "1",
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
-  "cupos": 35,
-  "inscritos": 35,
+  "cupos": 36,
+  "inscritos": 36,
   "libres": 0
  },
  "350380|1": {
@@ -788,8 +788,8 @@
   "nombre": "TALLER EMPRENDIMIENTOS DE ALTO IMPACTO. - SÁEZ ARTEAGA ,CAMILA FERNANDA",
   "horario": "TEO: VI 11:10 12:30 S301AD",
   "cupos": 50,
-  "inscritos": 46,
-  "libres": 4
+  "inscritos": 47,
+  "libres": 3
  },
  "350387|1": {
   "codigo": "350387",
@@ -797,8 +797,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 28,
-  "libres": 42
+  "inscritos": 30,
+  "libres": 40
  },
  "350388|1": {
   "codigo": "350388",
@@ -806,16 +806,16 @@
   "nombre": "TALLER DE DEFENSA PERSONAL. - ÓRDENES VALENZUELA ,MAURO ISRAEL",
   "horario": "PRA: JU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350389|1": {
   "codigo": "350389",
   "seccion": "1",
   "nombre": "TALLER DE INICIACIÓN AL BASQUETBOL. - CAMPOS SOBARZO ,FERNANDO ROLANDO",
   "horario": "PRA: LU 11:10 12:30 Gimnasio 1",
-  "cupos": 35,
-  "inscritos": 35,
+  "cupos": 37,
+  "inscritos": 37,
   "libres": 0
  },
  "350390|1": {
@@ -877,8 +877,8 @@
   "seccion": "5",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
-  "cupos": 37,
-  "inscritos": 37,
+  "cupos": 38,
+  "inscritos": 38,
   "libres": 0
  },
  "350392|6": {
@@ -904,8 +904,8 @@
   "seccion": "2",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
-  "cupos": 50,
-  "inscritos": 50,
+  "cupos": 51,
+  "inscritos": 51,
   "libres": 0
  },
  "350394|1": {
