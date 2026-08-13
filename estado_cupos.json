@@ -113,8 +113,8 @@
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
   "cupos": 41,
-  "inscritos": 41,
-  "libres": 0
+  "inscritos": 40,
+  "libres": 1
  },
  "340451|1": {
   "codigo": "340451",
@@ -203,8 +203,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 48,
+  "libres": 2
  },
  "340481|3": {
   "codigo": "340481",
@@ -374,8 +374,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 14:10 15:30 S302AD",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
+  "inscritos": 50,
+  "libres": 1
  },
  "350260|2": {
   "codigo": "350260",
@@ -437,8 +437,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - ZÚÑIGA QUIERO ",
   "horario": "PRA: LU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350303|2": {
   "codigo": "350303",
@@ -716,8 +716,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350374|1": {
   "codigo": "350374",
@@ -734,8 +734,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 A105AC",
   "cupos": 50,
-  "inscritos": 38,
-  "libres": 12
+  "inscritos": 39,
+  "libres": 11
  },
  "350378|1": {
   "codigo": "350378",
