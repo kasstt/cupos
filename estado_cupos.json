@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 40,
-  "inscritos": 39,
-  "libres": 1
+  "inscritos": 40,
+  "libres": 0
  },
  "340341|1": {
   "codigo": "340341",
@@ -167,8 +167,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
+  "inscritos": 50,
+  "libres": 1
  },
  "340475|1": {
   "codigo": "340475",
@@ -347,8 +347,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 33,
+  "libres": 2
  },
  "350222|1": {
   "codigo": "350222",
@@ -615,7 +615,7 @@
   "codigo": "350316",
   "seccion": "1",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "",
+  "horario": "TEO: LU 14:10 15:30 T101EC",
   "cupos": 50,
   "inscritos": 48,
   "libres": 2
@@ -624,7 +624,7 @@
   "codigo": "350316",
   "seccion": "2",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "TEO: LU 12:40 14:00 A208AC",
+  "horario": "TEO: MI 11:10 12:30 A102AC",
   "cupos": 50,
   "inscritos": 39,
   "libres": 11
@@ -633,7 +633,7 @@
   "codigo": "350316",
   "seccion": "3",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "",
+  "horario": "TEO: VI 14:10 15:30 A205AC",
   "cupos": 50,
   "inscritos": 21,
   "libres": 29
@@ -752,8 +752,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 24,
-  "libres": 6
+  "inscritos": 25,
+  "libres": 5
  },
  "350378|3": {
   "codigo": "350378",
@@ -797,8 +797,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 37,
-  "libres": 33
+  "inscritos": 39,
+  "libres": 31
  },
  "350388|1": {
   "codigo": "350388",
@@ -878,8 +878,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
   "cupos": 38,
-  "inscritos": 38,
-  "libres": 0
+  "inscritos": 37,
+  "libres": 1
  },
  "350392|6": {
   "codigo": "350392",
@@ -905,8 +905,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
   "cupos": 51,
-  "inscritos": 50,
-  "libres": 1
+  "inscritos": 51,
+  "libres": 0
  },
  "350394|1": {
   "codigo": "350394",
