@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 19,
-  "libres": 16
+  "inscritos": 20,
+  "libres": 15
  },
  "340228|1": {
   "codigo": "340228",
@@ -95,8 +95,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 23,
-  "libres": 12
+  "inscritos": 24,
+  "libres": 11
  },
  "340387|1": {
   "codigo": "340387",
@@ -140,8 +140,8 @@
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
   "cupos": 51,
-  "inscritos": 50,
-  "libres": 1
+  "inscritos": 51,
+  "libres": 0
  },
  "340463|2": {
   "codigo": "340463",
@@ -167,8 +167,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "340474|2": {
   "codigo": "340474",
@@ -185,8 +185,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 31,
+  "libres": 4
  },
  "340477|1": {
   "codigo": "340477",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "TEO: LU 12:40 14:00 S202AD",
   "cupos": 43,
-  "inscritos": 42,
-  "libres": 1
+  "inscritos": 43,
+  "libres": 0
  },
  "340481|4": {
   "codigo": "340481",
@@ -337,8 +337,8 @@
   "seccion": "1",
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
-  "cupos": 50,
-  "inscritos": 50,
+  "cupos": 52,
+  "inscritos": 52,
   "libres": 0
  },
  "350210|1": {
@@ -355,8 +355,8 @@
   "seccion": "1",
   "nombre": "TALLER DE DESARROLLO PSICOLÓGICO. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: JU 12:40 14:00 A205AC",
-  "cupos": 52,
-  "inscritos": 52,
+  "cupos": 54,
+  "inscritos": 54,
   "libres": 0
  },
  "350220|1": {
@@ -482,8 +482,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
   "horario": "TEO: JU 12:40 14:00 A206AC",
   "cupos": 50,
-  "inscritos": 4,
-  "libres": 46
+  "inscritos": 19,
+  "libres": 31
  },
  "350311|2": {
   "codigo": "350311",
@@ -626,8 +626,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350316|1": {
   "codigo": "350316",
@@ -644,8 +644,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: MI 11:10 12:30 A102AC",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 45,
+  "libres": 5
  },
  "350316|3": {
   "codigo": "350316",
@@ -787,8 +787,8 @@
   "seccion": "1",
   "nombre": "TALLER DE INICIACIÓN AL VOLEIBOL. - CABRERA GONZÁLEZ ,JORGE WASHINGTON",
   "horario": "PRA: LU 17:10 18:30 Gimnasio 1",
-  "cupos": 36,
-  "inscritos": 36,
+  "cupos": 38,
+  "inscritos": 38,
   "libres": 0
  },
  "350380|1": {
@@ -806,8 +806,8 @@
   "nombre": "TALLER EMPRENDIMIENTOS DE ALTO IMPACTO. - SÁEZ ARTEAGA ,CAMILA FERNANDA",
   "horario": "TEO: VI 11:10 12:30 S301AD",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 48,
+  "libres": 2
  },
  "350387|1": {
   "codigo": "350387",
@@ -851,8 +851,8 @@
   "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - DELGADO HORMAZÁBAL ,ALICIA ALEJANDRA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350392|1": {
   "codigo": "350392",
@@ -878,8 +878,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MI 11:10 12:30 A101EG",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 34,
+  "libres": 2
  },
  "350392|4": {
   "codigo": "350392",
@@ -913,8 +913,8 @@
   "seccion": "1",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A102AC",
-  "cupos": 52,
-  "inscritos": 52,
+  "cupos": 53,
+  "inscritos": 53,
   "libres": 0
  },
  "350393|2": {
@@ -950,7 +950,7 @@
   "nombre": "TALLER DE COMUNICACIÓN JURÍDICA ORAL Y ESCRITA. - ESPEJO FLORES ,HÉCTOR LUIS",
   "horario": "TEO: MI 17:10 18:30 A104AC",
   "cupos": 30,
-  "inscritos": 14,
-  "libres": 16
+  "inscritos": 15,
+  "libres": 15
  }
 }
