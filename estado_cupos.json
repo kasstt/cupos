@@ -725,8 +725,8 @@
   "nombre": "TALLER INCLUSIÓN Y DIVERSIDAD. - OTTO MATTA ,KAREN GRETEL VALERIA",
   "horario": "TEO: MI 12:40 14:00 S202AD",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "350375|1": {
   "codigo": "350375",
@@ -851,8 +851,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 09:40 11:00 A101EG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|3": {
   "codigo": "350392",
