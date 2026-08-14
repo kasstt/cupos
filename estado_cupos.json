@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 18,
-  "libres": 17
+  "inscritos": 19,
+  "libres": 16
  },
  "340228|1": {
   "codigo": "340228",
@@ -143,14 +143,23 @@
   "inscritos": 50,
   "libres": 1
  },
+ "340463|2": {
+  "codigo": "340463",
+  "seccion": "2",
+  "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
+  "horario": "",
+  "cupos": 10,
+  "inscritos": 0,
+  "libres": 10
+ },
  "340469|1": {
   "codigo": "340469",
   "seccion": "1",
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 S208EG",
   "cupos": 35,
-  "inscritos": 30,
-  "libres": 5
+  "inscritos": 31,
+  "libres": 4
  },
  "340474|1": {
   "codigo": "340474",
@@ -185,8 +194,8 @@
   "nombre": "ALEMÁN COMUNICACIONAL I . - SLAIBE FERNÁNDEZ ,ERNEST ALEJANDRO",
   "horario": "TEO: LU 12:40 14:00 A207AC | TEO: JU 11:10 12:30 A202AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 0
  },
  "340481|1": {
   "codigo": "340481",
@@ -250,6 +259,15 @@
   "cupos": 45,
   "inscritos": 24,
   "libres": 21
+ },
+ "350125|1": {
+  "codigo": "350125",
+  "seccion": "1",
+  "nombre": "EMPRENDIMIENTO E INNOVACIÓN. - MUÑOZ SUÁREZ ,NELSON ARTURO",
+  "horario": "",
+  "cupos": 5,
+  "inscritos": 0,
+  "libres": 5
  },
  "350131|1": {
   "codigo": "350131",
@@ -626,8 +644,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: MI 11:10 12:30 A102AC",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 44,
+  "libres": 6
  },
  "350316|3": {
   "codigo": "350316",
@@ -635,8 +653,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: VI 14:10 15:30 A205AC",
   "cupos": 50,
-  "inscritos": 20,
-  "libres": 30
+  "inscritos": 21,
+  "libres": 29
  },
  "350316|4": {
   "codigo": "350316",
@@ -860,8 +878,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MI 11:10 12:30 A101EG",
   "cupos": 36,
-  "inscritos": 34,
-  "libres": 2
+  "inscritos": 35,
+  "libres": 1
  },
  "350392|4": {
   "codigo": "350392",
