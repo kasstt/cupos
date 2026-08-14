@@ -59,8 +59,8 @@
   "nombre": "INGLÉS INTERMEDIO. - AROS MELZER ,ISABEL DEL PILAR",
   "horario": "TEO: LU 12:40 14:00 A301AC | TEO: JU 14:10 15:30 A206AC",
   "cupos": 40,
-  "inscritos": 39,
-  "libres": 1
+  "inscritos": 40,
+  "libres": 0
  },
  "340344|2": {
   "codigo": "340344",
@@ -410,8 +410,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350285|2": {
   "codigo": "350285",
@@ -419,8 +419,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 0
  },
  "350285|3": {
   "codigo": "350285",
@@ -572,8 +572,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
   "horario": "TEO: MI 12:40 14:00 A306AC",
   "cupos": 61,
-  "inscritos": 57,
-  "libres": 4
+  "inscritos": 59,
+  "libres": 2
  },
  "350311|14": {
   "codigo": "350311",
@@ -599,8 +599,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 42,
-  "inscritos": 42,
-  "libres": 0
+  "inscritos": 41,
+  "libres": 1
  },
  "350315|1": {
   "codigo": "350315",
@@ -698,8 +698,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 30,
-  "libres": 0
+  "inscritos": 29,
+  "libres": 1
  },
  "350362|1": {
   "codigo": "350362",
@@ -914,8 +914,8 @@
   "nombre": "COMUNICACIÓN Y HABILIDADES SOCIALES. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: VI 11:10 12:30 A204AC",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350395|1": {
   "codigo": "350395",
