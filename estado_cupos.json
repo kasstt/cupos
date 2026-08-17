@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 40,
-  "inscritos": 39,
-  "libres": 1
+  "inscritos": 38,
+  "libres": 2
  },
  "340341|1": {
   "codigo": "340341",
@@ -139,9 +139,9 @@
   "seccion": "1",
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
-  "cupos": 51,
+  "cupos": 52,
   "inscritos": 51,
-  "libres": 0
+  "libres": 1
  },
  "340463|2": {
   "codigo": "340463",
@@ -284,8 +284,8 @@
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
   "cupos": 53,
-  "inscritos": 53,
-  "libres": 0
+  "inscritos": 52,
+  "libres": 1
  },
  "350166|1": {
   "codigo": "350166",
@@ -815,8 +815,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 45,
-  "libres": 25
+  "inscritos": 46,
+  "libres": 24
  },
  "350388|1": {
   "codigo": "350388",
