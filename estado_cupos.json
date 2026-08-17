@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 37,
-  "inscritos": 35,
-  "libres": 2
+  "inscritos": 36,
+  "libres": 1
  },
  "340135|2": {
   "codigo": "340135",
@@ -104,8 +104,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 45,
-  "inscritos": 44,
-  "libres": 1
+  "inscritos": 45,
+  "libres": 0
  },
  "340414|1": {
   "codigo": "340414",
@@ -365,8 +365,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 35,
+  "libres": 0
  },
  "350222|1": {
   "codigo": "350222",
@@ -418,8 +418,8 @@
   "seccion": "2",
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A102AA",
-  "cupos": 51,
-  "inscritos": 51,
+  "cupos": 52,
+  "inscritos": 52,
   "libres": 0
  },
  "350285|1": {
@@ -536,8 +536,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: VI 15:40 17:00 A107AC",
   "cupos": 50,
-  "inscritos": 10,
-  "libres": 40
+  "inscritos": 13,
+  "libres": 37
  },
  "350311|8": {
   "codigo": "350311",
