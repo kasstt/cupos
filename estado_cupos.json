@@ -140,8 +140,8 @@
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
   "cupos": 52,
-  "inscritos": 51,
-  "libres": 1
+  "inscritos": 52,
+  "libres": 0
  },
  "340463|2": {
   "codigo": "340463",
@@ -669,7 +669,7 @@
   "codigo": "350316",
   "seccion": "5",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
-  "horario": "TEO: LU 14:10 15:30 S102ExIM",
+  "horario": "TEO: LU 14:10 15:30 S201AD",
   "cupos": 50,
   "inscritos": 31,
   "libres": 19
@@ -796,8 +796,8 @@
   "seccion": "1",
   "nombre": "TALLER DE INICIACIÓN AL FÚTBOL. - NÚÑEZ TURRA ,DIEGO IGNACIO",
   "horario": "PRA: MI 11:10 12:30 Cancha Fútbol",
-  "cupos": 35,
-  "inscritos": 35,
+  "cupos": 36,
+  "inscritos": 36,
   "libres": 0
  },
  "350386|1": {
@@ -886,8 +886,8 @@
   "seccion": "4",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: JU 08:10 09:30 S201AD",
-  "cupos": 37,
-  "inscritos": 37,
+  "cupos": 38,
+  "inscritos": 38,
   "libres": 0
  },
  "350392|5": {
