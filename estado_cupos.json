@@ -482,8 +482,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
   "horario": "TEO: JU 12:40 14:00 A206AC",
   "cupos": 70,
-  "inscritos": 55,
-  "libres": 15
+  "inscritos": 56,
+  "libres": 14
  },
  "350311|2": {
   "codigo": "350311",
@@ -536,8 +536,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: VI 15:40 17:00 A107AC",
   "cupos": 50,
-  "inscritos": 15,
-  "libres": 35
+  "inscritos": 17,
+  "libres": 33
  },
  "350311|8": {
   "codigo": "350311",
@@ -896,8 +896,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
   "cupos": 38,
-  "inscritos": 38,
-  "libres": 0
+  "inscritos": 37,
+  "libres": 1
  },
  "350392|6": {
   "codigo": "350392",
