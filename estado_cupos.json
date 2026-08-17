@@ -157,9 +157,9 @@
   "seccion": "1",
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 S208EG",
-  "cupos": 35,
+  "cupos": 40,
   "inscritos": 34,
-  "libres": 1
+  "libres": 6
  },
  "340474|1": {
   "codigo": "340474",
@@ -534,7 +534,7 @@
   "codigo": "350311",
   "seccion": "7",
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
-  "horario": "TEO: MA 12:40 14:00 S201AD",
+  "horario": "TEO: VI 15:40 17:00 A107AC",
   "cupos": 50,
   "inscritos": 10,
   "libres": 40
@@ -644,8 +644,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: MI 11:10 12:30 A102AC",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 48,
+  "libres": 2
  },
  "350316|3": {
   "codigo": "350316",
@@ -678,7 +678,7 @@
   "codigo": "350316",
   "seccion": "6",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "TEO: LU 11:10 12:30 S303AD",
+  "horario": "TEO: VI 12:40 14:00 A301AB",
   "cupos": 50,
   "inscritos": 34,
   "libres": 16
