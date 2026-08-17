@@ -4,18 +4,18 @@
   "seccion": "1",
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
-  "cupos": 35,
+  "cupos": 37,
   "inscritos": 35,
-  "libres": 0
+  "libres": 2
  },
  "340135|2": {
   "codigo": "340135",
   "seccion": "2",
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
-  "cupos": 35,
+  "cupos": 37,
   "inscritos": 35,
-  "libres": 0
+  "libres": 2
  },
  "340226|1": {
   "codigo": "340226",
@@ -112,9 +112,9 @@
   "seccion": "1",
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
-  "cupos": 41,
+  "cupos": 45,
   "inscritos": 41,
-  "libres": 0
+  "libres": 4
  },
  "340451|1": {
   "codigo": "340451",
@@ -680,8 +680,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: VI 12:40 14:00 A301AB",
   "cupos": 50,
-  "inscritos": 34,
-  "libres": 16
+  "inscritos": 35,
+  "libres": 15
  },
  "350316|7": {
   "codigo": "350316",
