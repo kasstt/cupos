@@ -77,8 +77,8 @@
   "nombre": "INGLÉS INTERMEDIO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: LU 11:10 12:30 S202AD | TEO: MI 08:10 09:30 S102FG",
   "cupos": 35,
-  "inscritos": 33,
-  "libres": 2
+  "inscritos": 34,
+  "libres": 1
  },
  "340345|1": {
   "codigo": "340345",
@@ -104,8 +104,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 45,
-  "inscritos": 45,
-  "libres": 0
+  "inscritos": 44,
+  "libres": 1
  },
  "340414|1": {
   "codigo": "340414",
@@ -202,9 +202,9 @@
   "seccion": "1",
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
-  "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "cupos": 60,
+  "inscritos": 51,
+  "libres": 9
  },
  "340481|2": {
   "codigo": "340481",
@@ -473,17 +473,17 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 25,
-  "libres": 10
+  "inscritos": 32,
+  "libres": 3
  },
  "350311|1": {
   "codigo": "350311",
   "seccion": "1",
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
   "horario": "TEO: JU 12:40 14:00 A206AC",
-  "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "cupos": 70,
+  "inscritos": 51,
+  "libres": 19
  },
  "350311|2": {
   "codigo": "350311",
@@ -536,8 +536,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: VI 15:40 17:00 A107AC",
   "cupos": 50,
-  "inscritos": 13,
-  "libres": 37
+  "inscritos": 15,
+  "libres": 35
  },
  "350311|8": {
   "codigo": "350311",
@@ -716,8 +716,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 30,
+  "libres": 0
  },
  "350362|1": {
   "codigo": "350362",
