@@ -113,8 +113,8 @@
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
   "cupos": 45,
-  "inscritos": 42,
-  "libres": 3
+  "inscritos": 43,
+  "libres": 2
  },
  "340451|1": {
   "codigo": "340451",
@@ -500,8 +500,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
   "horario": "TEO: MI 11:10 12:30 A307AC",
   "cupos": 50,
-  "inscritos": 0,
-  "libres": 50
+  "inscritos": 1,
+  "libres": 49
  },
  "350311|4": {
   "codigo": "350311",
