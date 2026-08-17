@@ -57,7 +57,7 @@
   "codigo": "340344",
   "seccion": "1",
   "nombre": "INGLÉS INTERMEDIO. - AROS MELZER ,ISABEL DEL PILAR",
-  "horario": "TEO: LU 12:40 14:00 A301AC | TEO: JU 14:10 15:30 A206AC",
+  "horario": "TEO: LU 12:40 14:00 A301AC | TEO: VI 14:10 15:30 A302AC",
   "cupos": 40,
   "inscritos": 40,
   "libres": 0
@@ -175,8 +175,8 @@
   "seccion": "2",
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
-  "cupos": 51,
-  "inscritos": 51,
+  "cupos": 52,
+  "inscritos": 52,
   "libres": 0
  },
  "340475|1": {
@@ -400,8 +400,8 @@
   "seccion": "2",
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
-  "cupos": 50,
-  "inscritos": 50,
+  "cupos": 51,
+  "inscritos": 51,
   "libres": 0
  },
  "350263|1": {
