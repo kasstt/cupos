@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
   "cupos": 37,
-  "inscritos": 36,
-  "libres": 1
+  "inscritos": 37,
+  "libres": 0
  },
  "340135|2": {
   "codigo": "340135",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "TEO: LU 12:40 14:00 S202AD",
   "cupos": 43,
-  "inscritos": 43,
-  "libres": 0
+  "inscritos": 42,
+  "libres": 1
  },
  "340481|4": {
   "codigo": "340481",
@@ -482,8 +482,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
   "horario": "TEO: JU 12:40 14:00 A206AC",
   "cupos": 70,
-  "inscritos": 51,
-  "libres": 19
+  "inscritos": 53,
+  "libres": 17
  },
  "350311|2": {
   "codigo": "350311",
