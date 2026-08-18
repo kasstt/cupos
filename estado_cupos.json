@@ -248,8 +248,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 41,
-  "libres": 9
+  "inscritos": 40,
+  "libres": 10
  },
  "340568|1": {
   "codigo": "340568",
@@ -346,8 +346,8 @@
   "seccion": "1",
   "nombre": "COMUNICACIÓN EFECTIVA, LENGUAJE Y PERSUASIÓN. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: JU 12:40 14:00 A204AC",
-  "cupos": 51,
-  "inscritos": 51,
+  "cupos": 52,
+  "inscritos": 52,
   "libres": 0
  },
  "350213|1": {
@@ -482,8 +482,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
   "horario": "TEO: JU 12:40 14:00 A206AC",
   "cupos": 70,
-  "inscritos": 58,
-  "libres": 12
+  "inscritos": 60,
+  "libres": 10
  },
  "350311|2": {
   "codigo": "350311",
