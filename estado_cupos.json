@@ -4,18 +4,18 @@
   "seccion": "1",
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
-  "cupos": 37,
+  "cupos": 40,
   "inscritos": 37,
-  "libres": 0
+  "libres": 3
  },
  "340135|2": {
   "codigo": "340135",
   "seccion": "2",
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
-  "cupos": 37,
+  "cupos": 40,
   "inscritos": 36,
-  "libres": 1
+  "libres": 4
  },
  "340226|1": {
   "codigo": "340226",
@@ -103,9 +103,9 @@
   "seccion": "1",
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
-  "cupos": 45,
+  "cupos": 44,
   "inscritos": 44,
-  "libres": 1
+  "libres": 0
  },
  "340414|1": {
   "codigo": "340414",
@@ -121,18 +121,18 @@
   "seccion": "1",
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 17:10 18:30 A102AC",
-  "cupos": 36,
+  "cupos": 37,
   "inscritos": 36,
-  "libres": 0
+  "libres": 1
  },
  "340451|2": {
   "codigo": "340451",
   "seccion": "2",
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
-  "cupos": 36,
+  "cupos": 37,
   "inscritos": 36,
-  "libres": 0
+  "libres": 1
  },
  "340463|1": {
   "codigo": "340463",
