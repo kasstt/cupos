@@ -203,8 +203,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - RUBIO SUAREZ",
   "horario": "TEO: MA 12:40 14:00 A208AC",
   "cupos": 60,
-  "inscritos": 51,
-  "libres": 9
+  "inscritos": 53,
+  "libres": 7
  },
  "340481|2": {
   "codigo": "340481",
@@ -248,8 +248,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 40,
-  "libres": 10
+  "inscritos": 39,
+  "libres": 11
  },
  "340568|1": {
   "codigo": "340568",
@@ -482,8 +482,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
   "horario": "TEO: JU 12:40 14:00 A206AC",
   "cupos": 70,
-  "inscritos": 61,
-  "libres": 9
+  "inscritos": 64,
+  "libres": 6
  },
  "350311|2": {
   "codigo": "350311",
@@ -815,8 +815,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 48,
-  "libres": 22
+  "inscritos": 49,
+  "libres": 21
  },
  "350388|1": {
   "codigo": "350388",
