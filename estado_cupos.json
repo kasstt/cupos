@@ -158,8 +158,8 @@
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 A202AC",
   "cupos": 40,
-  "inscritos": 34,
-  "libres": 6
+  "inscritos": 33,
+  "libres": 7
  },
  "340474|1": {
   "codigo": "340474",
@@ -175,9 +175,9 @@
   "seccion": "2",
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
-  "cupos": 52,
+  "cupos": 51,
   "inscritos": 50,
-  "libres": 2
+  "libres": 1
  },
  "340475|1": {
   "codigo": "340475",
@@ -248,8 +248,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 37,
-  "libres": 13
+  "inscritos": 36,
+  "libres": 14
  },
  "340568|1": {
   "codigo": "340568",
@@ -698,8 +698,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: MI 14:10 15:30 S201AD",
   "cupos": 50,
-  "inscritos": 38,
-  "libres": 12
+  "inscritos": 39,
+  "libres": 11
  },
  "350325|1": {
   "codigo": "350325",
@@ -761,8 +761,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 23,
-  "libres": 7
+  "inscritos": 22,
+  "libres": 8
  },
  "350378|2": {
   "codigo": "350378",
@@ -815,8 +815,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 70,
-  "inscritos": 52,
-  "libres": 18
+  "inscritos": 53,
+  "libres": 17
  },
  "350388|1": {
   "codigo": "350388",
