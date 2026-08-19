@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: MA 14:10 15:30 S303AD",
   "cupos": 52,
-  "inscritos": 51,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 2
  },
  "340475|1": {
   "codigo": "340475",
@@ -525,7 +525,7 @@
   "codigo": "350311",
   "seccion": "6",
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
-  "horario": "TEO: VI 11:10 12:30 S303AD",
+  "horario": "TEO: MA 12:40 14:00 TPROTOTIPO | TEO: VI 11:10 12:30 T102EC",
   "cupos": 55,
   "inscritos": 49,
   "libres": 6
@@ -633,10 +633,10 @@
   "codigo": "350316",
   "seccion": "1",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "TEO: LU 14:10 15:30 T101EC",
+  "horario": "TEO: LU 14:10 15:30 A108AC",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 43,
+  "libres": 7
  },
  "350316|2": {
   "codigo": "350316",
@@ -860,8 +860,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S204EG",
   "cupos": 37,
-  "inscritos": 36,
-  "libres": 1
+  "inscritos": 37,
+  "libres": 0
  },
  "350392|2": {
   "codigo": "350392",
