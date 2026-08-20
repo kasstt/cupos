@@ -219,7 +219,7 @@
   "codigo": "340481",
   "seccion": "3",
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
-  "horario": "TEO: LU 12:40 14:00 S202AD",
+  "horario": "TEO: LU 12:40 14:00 A102AC",
   "cupos": 43,
   "inscritos": 42,
   "libres": 1
@@ -228,7 +228,7 @@
   "codigo": "340481",
   "seccion": "4",
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
-  "horario": "TEO: LU 12:40 14:00 S202EC",
+  "horario": "TEO: LU 12:40 14:00 A102AC",
   "cupos": 50,
   "inscritos": 21,
   "libres": 29
@@ -494,33 +494,6 @@
   "inscritos": 28,
   "libres": 22
  },
- "350311|3": {
-  "codigo": "350311",
-  "seccion": "3",
-  "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
-  "horario": "TEO: MI 11:10 12:30 A307AC",
-  "cupos": 50,
-  "inscritos": 1,
-  "libres": 49
- },
- "350311|4": {
-  "codigo": "350311",
-  "seccion": "4",
-  "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
-  "horario": "TEO: MI 12:40 14:00 S203AD",
-  "cupos": 50,
-  "inscritos": 0,
-  "libres": 50
- },
- "350311|5": {
-  "codigo": "350311",
-  "seccion": "5",
-  "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
-  "horario": "TEO: JU 11:10 12:30 A203AC | TEO: VI 11:10 12:30 S101IM",
-  "cupos": 50,
-  "inscritos": 2,
-  "libres": 48
- },
  "350311|6": {
   "codigo": "350311",
   "seccion": "6",
@@ -660,7 +633,7 @@
   "codigo": "350316",
   "seccion": "4",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
-  "horario": "TEO: LU 12:40 14:00 S206EC",
+  "horario": "TEO: LU 12:40 14:00 A208AC",
   "cupos": 51,
   "inscritos": 50,
   "libres": 1
