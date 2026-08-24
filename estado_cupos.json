@@ -57,7 +57,7 @@
   "codigo": "340344",
   "seccion": "1",
   "nombre": "INGLÉS INTERMEDIO. - AROS MELZER ,ISABEL DEL PILAR",
-  "horario": "TEO: LU 12:40 14:00 A301AC | TEO: VI 14:10 15:30 A302AC",
+  "horario": "TEO: LU 12:40 14:00 A301AC | TEO: VI 14:10 15:30 A302AC | TEO: VI 17:10 17:50 A103AC",
   "cupos": 40,
   "inscritos": 40,
   "libres": 0
@@ -95,8 +95,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 35,
-  "inscritos": 27,
-  "libres": 8
+  "inscritos": 26,
+  "libres": 9
  },
  "340387|1": {
   "codigo": "340387",
