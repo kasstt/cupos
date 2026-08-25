@@ -89,6 +89,15 @@
   "inscritos": 19,
   "libres": 16
  },
+ "340345|2": {
+  "codigo": "340345",
+  "seccion": "2",
+  "nombre": "INGLÉS AVANZADO. - HERNÁNDEZ MORAGA ,JAIME ALFREDO",
+  "horario": "",
+  "cupos": 1,
+  "inscritos": 0,
+  "libres": 1
+ },
  "340379|1": {
   "codigo": "340379",
   "seccion": "1",
@@ -283,9 +292,9 @@
   "seccion": "1",
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
-  "cupos": 53,
+  "cupos": 54,
   "inscritos": 53,
-  "libres": 0
+  "libres": 1
  },
  "350166|1": {
   "codigo": "350166",
