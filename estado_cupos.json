@@ -293,8 +293,8 @@
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
   "cupos": 54,
-  "inscritos": 53,
-  "libres": 1
+  "inscritos": 54,
+  "libres": 0
  },
  "350166|1": {
   "codigo": "350166",
@@ -725,8 +725,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 A105AC",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 49,
+  "libres": 1
  },
  "350378|1": {
   "codigo": "350378",
