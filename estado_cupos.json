@@ -3,10 +3,10 @@
   "codigo": "340135",
   "seccion": "1",
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
-  "horario": "TEO: MI 14:10 15:30 A208AC | TEO: JU 17:10 17:50 S102FG",
+  "horario": "TEO: MI 14:10 15:30 A208AC",
   "cupos": 40,
-  "inscritos": 39,
-  "libres": 1
+  "inscritos": 40,
+  "libres": 0
  },
  "340135|2": {
   "codigo": "340135",
@@ -401,8 +401,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 14:10 15:30 S302AD",
   "cupos": 52,
-  "inscritos": 52,
-  "libres": 0
+  "inscritos": 51,
+  "libres": 1
  },
  "350260|2": {
   "codigo": "350260",
@@ -527,8 +527,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "TEO: LU 16:20 17:50 S101ExIM",
   "cupos": 50,
-  "inscritos": 35,
-  "libres": 15
+  "inscritos": 33,
+  "libres": 17
  },
  "350311|9": {
   "codigo": "350311",
@@ -669,7 +669,7 @@
   "codigo": "350316",
   "seccion": "8",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "TEO: MI 14:10 15:30 S201AD",
+  "horario": "TEO: MI 14:10 15:30 A205AC",
   "cupos": 50,
   "inscritos": 39,
   "libres": 11
