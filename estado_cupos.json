@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC",
   "cupos": 40,
-  "inscritos": 40,
-  "libres": 0
+  "inscritos": 39,
+  "libres": 1
  },
  "340135|2": {
   "codigo": "340135",
@@ -131,8 +131,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 17:10 18:30 A102AC",
   "cupos": 37,
-  "inscritos": 36,
-  "libres": 1
+  "inscritos": 37,
+  "libres": 0
  },
  "340451|2": {
   "codigo": "340451",
@@ -257,8 +257,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 35,
-  "libres": 15
+  "inscritos": 34,
+  "libres": 16
  },
  "340568|1": {
   "codigo": "340568",
@@ -797,8 +797,8 @@
   "nombre": "TALLER DE DEFENSA PERSONAL. - ÓRDENES VALENZUELA ,MAURO ISRAEL",
   "horario": "PRA: JU 17:10 18:30 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350389|1": {
   "codigo": "350389",
