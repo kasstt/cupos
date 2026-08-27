@@ -23,8 +23,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
   "cupos": 35,
-  "inscritos": 26,
-  "libres": 9
+  "inscritos": 25,
+  "libres": 10
  },
  "340226|2": {
   "codigo": "340226",
@@ -40,8 +40,8 @@
   "seccion": "1",
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
-  "cupos": 41,
-  "inscritos": 41,
+  "cupos": 42,
+  "inscritos": 42,
   "libres": 0
  },
  "340341|1": {
@@ -89,15 +89,6 @@
   "inscritos": 19,
   "libres": 16
  },
- "340345|2": {
-  "codigo": "340345",
-  "seccion": "2",
-  "nombre": "INGLÉS AVANZADO. - HERNÁNDEZ MORAGA ,JAIME ALFREDO",
-  "horario": "",
-  "cupos": 1,
-  "inscritos": 0,
-  "libres": 1
- },
  "340379|1": {
   "codigo": "340379",
   "seccion": "1",
@@ -113,8 +104,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 44,
-  "inscritos": 44,
-  "libres": 0
+  "inscritos": 43,
+  "libres": 1
  },
  "340414|1": {
   "codigo": "340414",
@@ -248,8 +239,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
   "cupos": 50,
-  "inscritos": 37,
-  "libres": 13
+  "inscritos": 38,
+  "libres": 12
  },
  "340567|2": {
   "codigo": "340567",
@@ -383,8 +374,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 29,
-  "libres": 6
+  "inscritos": 28,
+  "libres": 7
  },
  "350222|2": {
   "codigo": "350222",
@@ -482,8 +473,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
   "cupos": 35,
-  "inscritos": 32,
-  "libres": 3
+  "inscritos": 31,
+  "libres": 4
  },
  "350311|1": {
   "codigo": "350311",
@@ -500,8 +491,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: JU 11:10 12:30 A208AC",
   "cupos": 50,
-  "inscritos": 28,
-  "libres": 22
+  "inscritos": 27,
+  "libres": 23
  },
  "350311|6": {
   "codigo": "350311",
@@ -606,7 +597,7 @@
   "codigo": "350316",
   "seccion": "1",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "TEO: LU 14:10 15:30 A108AC",
+  "horario": "TEO: VI 12:40 14:00 A304AC",
   "cupos": 50,
   "inscritos": 43,
   "libres": 7
@@ -615,7 +606,7 @@
   "codigo": "350316",
   "seccion": "2",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "TEO: MI 11:10 12:30 A102AC",
+  "horario": "TEO: VI 12:40 14:00 A305AC",
   "cupos": 50,
   "inscritos": 48,
   "libres": 2
@@ -624,7 +615,7 @@
   "codigo": "350316",
   "seccion": "3",
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
-  "horario": "TEO: JU 17:10 18:30 A105AC",
+  "horario": "TEO: VI 12:40 14:00 A306AC",
   "cupos": 50,
   "inscritos": 22,
   "libres": 28
@@ -707,8 +698,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 36,
-  "libres": 0
+  "inscritos": 35,
+  "libres": 1
  },
  "350374|1": {
   "codigo": "350374",
