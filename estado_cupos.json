@@ -392,8 +392,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 14:10 15:30 S302AD",
   "cupos": 52,
-  "inscritos": 51,
-  "libres": 1
+  "inscritos": 50,
+  "libres": 2
  },
  "350260|2": {
   "codigo": "350260",
@@ -500,8 +500,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
   "horario": "TEO: MA 12:40 14:00 TPROTOTIPO | TEO: VI 11:10 12:30 T102EC",
   "cupos": 55,
-  "inscritos": 49,
-  "libres": 6
+  "inscritos": 50,
+  "libres": 5
  },
  "350311|7": {
   "codigo": "350311",
@@ -509,8 +509,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: VI 15:40 17:00 A107AC",
   "cupos": 50,
-  "inscritos": 17,
-  "libres": 33
+  "inscritos": 19,
+  "libres": 31
  },
  "350311|8": {
   "codigo": "350311",
@@ -842,8 +842,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MI 11:10 12:30 A101EG",
   "cupos": 36,
-  "inscritos": 36,
-  "libres": 0
+  "inscritos": 35,
+  "libres": 1
  },
  "350392|4": {
   "codigo": "350392",
