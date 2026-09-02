@@ -75,7 +75,7 @@
   "codigo": "340344",
   "seccion": "3",
   "nombre": "INGLÉS INTERMEDIO. - BARRA SARZOZA ,LISA",
-  "horario": "TEO: LU 11:10 12:30 S202AD | TEO: MI 08:10 09:30 S102FG",
+  "horario": "TEO: LU 11:10 12:30 S202AD | TEO: MI 08:10 09:30 S102FG | TEO: MI 14:10 15:30 S101ExIM",
   "cupos": 35,
   "inscritos": 34,
   "libres": 1
@@ -84,7 +84,7 @@
   "codigo": "340345",
   "seccion": "1",
   "nombre": "INGLÉS AVANZADO. - BARRA SARZOZA ,LISA",
-  "horario": "TEO: LU 12:40 14:50 S303AD | TEO: MI 11:10 12:30 A207AC | TEO: MI 14:10 15:30 S101ExIM",
+  "horario": "TEO: LU 12:40 14:50 S303AD | TEO: MI 11:10 12:30 A207AC",
   "cupos": 35,
   "inscritos": 19,
   "libres": 16
@@ -491,8 +491,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: JU 11:10 12:30 A208AC",
   "cupos": 50,
-  "inscritos": 27,
-  "libres": 23
+  "inscritos": 28,
+  "libres": 22
  },
  "350311|6": {
   "codigo": "350311",
