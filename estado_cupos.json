@@ -104,8 +104,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 44,
-  "inscritos": 43,
-  "libres": 1
+  "inscritos": 44,
+  "libres": 0
  },
  "340414|1": {
   "codigo": "340414",
@@ -500,8 +500,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
   "horario": "TEO: MA 12:40 14:00 TPROTOTIPO | TEO: VI 11:10 12:30 T102EC",
   "cupos": 55,
-  "inscritos": 50,
-  "libres": 5
+  "inscritos": 51,
+  "libres": 4
  },
  "350311|7": {
   "codigo": "350311",
