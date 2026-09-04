@@ -833,43 +833,43 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 09:40 11:00 A101EG",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "350392|3": {
   "codigo": "350392",
   "seccion": "3",
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MI 11:10 12:30 A101EG",
-  "cupos": 36,
+  "cupos": 35,
   "inscritos": 35,
-  "libres": 1
+  "libres": 0
  },
  "350392|4": {
   "codigo": "350392",
   "seccion": "4",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: JU 08:10 09:30 S201AD",
-  "cupos": 38,
+  "cupos": 37,
   "inscritos": 37,
-  "libres": 1
+  "libres": 0
  },
  "350392|5": {
   "codigo": "350392",
   "seccion": "5",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
-  "cupos": 38,
+  "cupos": 36,
   "inscritos": 36,
-  "libres": 2
+  "libres": 0
  },
  "350392|6": {
   "codigo": "350392",
   "seccion": "6",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: VI 12:40 14:00 A102AB",
-  "cupos": 36,
-  "inscritos": 36,
+  "cupos": 37,
+  "inscritos": 37,
   "libres": 0
  },
  "350393|1": {
