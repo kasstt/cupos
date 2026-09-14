@@ -193,9 +193,9 @@
   "seccion": "1",
   "nombre": "ALEMÁN COMUNICACIONAL I . - SLAIBE FERNÁNDEZ ,ERNEST ALEJANDRO",
   "horario": "TEO: LU 12:40 14:00 A207AC | TEO: JU 11:10 12:30 A202AC",
-  "cupos": 50,
+  "cupos": 49,
   "inscritos": 49,
-  "libres": 1
+  "libres": 0
  },
  "340481|1": {
   "codigo": "340481",
@@ -391,9 +391,9 @@
   "seccion": "1",
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 14:10 15:30 S302AD",
-  "cupos": 52,
+  "cupos": 51,
   "inscritos": 51,
-  "libres": 1
+  "libres": 0
  },
  "350260|2": {
   "codigo": "350260",
