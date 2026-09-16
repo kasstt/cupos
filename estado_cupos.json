@@ -194,8 +194,8 @@
   "nombre": "ALEMÁN COMUNICACIONAL I . - SLAIBE FERNÁNDEZ ,ERNEST ALEJANDRO",
   "horario": "TEO: LU 12:40 14:00 A207AC | TEO: JU 11:10 12:30 A202AC",
   "cupos": 49,
-  "inscritos": 49,
-  "libres": 0
+  "inscritos": 48,
+  "libres": 1
  },
  "340481|1": {
   "codigo": "340481",
@@ -590,8 +590,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350316|1": {
   "codigo": "350316",
