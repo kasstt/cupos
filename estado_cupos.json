@@ -743,8 +743,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
   "cupos": 33,
-  "inscritos": 33,
-  "libres": 0
+  "inscritos": 32,
+  "libres": 1
  },
  "350379|1": {
   "codigo": "350379",
