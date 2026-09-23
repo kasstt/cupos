@@ -617,8 +617,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: MI 11:10 12:30 A102AC",
   "cupos": 50,
-  "inscritos": 47,
-  "libres": 3
+  "inscritos": 46,
+  "libres": 4
  },
  "350316|3": {
   "codigo": "350316",
@@ -743,8 +743,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - ZÚÑIGA QUIERO ,AQUILES MAURO",
   "horario": "PRA: MA 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 30,
-  "libres": 0
+  "inscritos": 29,
+  "libres": 1
  },
  "350378|3": {
   "codigo": "350378",
@@ -752,8 +752,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: MI 15:40 17:00 Gimnasio 1",
   "cupos": 33,
-  "inscritos": 32,
-  "libres": 1
+  "inscritos": 31,
+  "libres": 2
  },
  "350379|1": {
   "codigo": "350379",
