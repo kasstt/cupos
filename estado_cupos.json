@@ -77,8 +77,8 @@
   "nombre": "INGLÉS INTERMEDIO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: LU 11:10 12:30 S202AD | TEO: MI 08:10 09:30 S102FG | TEO: MI 14:10 15:30 S101ExIM",
   "cupos": 35,
-  "inscritos": 34,
-  "libres": 1
+  "inscritos": 33,
+  "libres": 2
  },
  "340345|1": {
   "codigo": "340345",
@@ -230,8 +230,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "TEO: LU 12:40 14:00 A102AC",
   "cupos": 43,
-  "inscritos": 42,
-  "libres": 1
+  "inscritos": 41,
+  "libres": 2
  },
  "340481|4": {
   "codigo": "340481",
@@ -707,8 +707,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes",
   "cupos": 36,
-  "inscritos": 34,
-  "libres": 2
+  "inscritos": 33,
+  "libres": 3
  },
  "350374|1": {
   "codigo": "350374",
