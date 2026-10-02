@@ -572,8 +572,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
   "horario": "TEO: MI 12:40 14:00 A306AC",
   "cupos": 61,
-  "inscritos": 60,
-  "libres": 1
+  "inscritos": 59,
+  "libres": 2
  },
  "350311|14": {
   "codigo": "350311",
@@ -779,8 +779,8 @@
   "nombre": "TALLER EMPRENDIMIENTOS DE ALTO IMPACTO. - SÁEZ ARTEAGA ,CAMILA FERNANDA",
   "horario": "TEO: VI 11:10 12:30 S301AD",
   "cupos": 50,
-  "inscritos": 48,
-  "libres": 2
+  "inscritos": 47,
+  "libres": 3
  },
  "350387|1": {
   "codigo": "350387",
