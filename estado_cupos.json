@@ -122,8 +122,8 @@
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
   "cupos": 45,
-  "inscritos": 43,
-  "libres": 2
+  "inscritos": 42,
+  "libres": 3
  },
  "340451|1": {
   "codigo": "340451",
@@ -194,8 +194,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 35,
-  "inscritos": 31,
-  "libres": 4
+  "inscritos": 30,
+  "libres": 5
  },
  "340477|1": {
   "codigo": "340477",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 13,
-  "libres": 22
+  "inscritos": 12,
+  "libres": 23
  },
  "350260|1": {
   "codigo": "350260",
@@ -410,8 +410,8 @@
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
   "cupos": 52,
-  "inscritos": 48,
-  "libres": 4
+  "inscritos": 47,
+  "libres": 5
  },
  "350263|1": {
   "codigo": "350263",
@@ -491,8 +491,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - RUBIO SUAREZ ,MARIANGE",
   "horario": "TEO: JU 12:40 14:00 A206AC",
   "cupos": 70,
-  "inscritos": 65,
-  "libres": 5
+  "inscritos": 64,
+  "libres": 6
  },
  "350311|2": {
   "codigo": "350311",
@@ -590,8 +590,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 41,
-  "inscritos": 36,
-  "libres": 5
+  "inscritos": 35,
+  "libres": 6
  },
  "350315|1": {
   "codigo": "350315",
@@ -734,8 +734,8 @@
   "nombre": "TALLER DE ACONDICIONAMIENTO FÍSICO. - VEGA FUENTES ,CARLOS ALBERTO",
   "horario": "PRA: VI 09:40 11:00 Gimnasio 1",
   "cupos": 30,
-  "inscritos": 20,
-  "libres": 10
+  "inscritos": 19,
+  "libres": 11
  },
  "350378|2": {
   "codigo": "350378",
@@ -770,8 +770,8 @@
   "nombre": "TALLER DE INICIACIÓN AL FÚTBOL. - NÚÑEZ TURRA ,DIEGO IGNACIO",
   "horario": "PRA: MI 11:10 12:30 Cancha Fútbol",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 34,
+  "libres": 2
  },
  "350386|1": {
   "codigo": "350386",
