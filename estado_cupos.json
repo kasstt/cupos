@@ -4,54 +4,54 @@
   "seccion": "1",
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC",
-  "cupos": 40,
+  "cupos": 38,
   "inscritos": 38,
-  "libres": 2
+  "libres": 0
  },
  "340135|2": {
   "codigo": "340135",
   "seccion": "2",
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
-  "cupos": 40,
+  "cupos": 36,
   "inscritos": 36,
-  "libres": 4
+  "libres": 0
  },
  "340226|1": {
   "codigo": "340226",
   "seccion": "1",
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: JU 17:10 18:30 S101FG",
-  "cupos": 35,
+  "cupos": 24,
   "inscritos": 24,
-  "libres": 11
+  "libres": 0
  },
  "340226|2": {
   "codigo": "340226",
   "seccion": "2",
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
-  "cupos": 35,
+  "cupos": 19,
   "inscritos": 19,
-  "libres": 16
+  "libres": 0
  },
  "340228|1": {
   "codigo": "340228",
   "seccion": "1",
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
-  "cupos": 42,
+  "cupos": 41,
   "inscritos": 41,
-  "libres": 1
+  "libres": 0
  },
  "340341|1": {
   "codigo": "340341",
   "seccion": "1",
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
-  "cupos": 35,
+  "cupos": 27,
   "inscritos": 27,
-  "libres": 8
+  "libres": 0
  },
  "340344|1": {
   "codigo": "340344",
@@ -103,27 +103,27 @@
   "seccion": "1",
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
-  "cupos": 35,
+  "cupos": 25,
   "inscritos": 25,
-  "libres": 10
+  "libres": 0
  },
  "340387|1": {
   "codigo": "340387",
   "seccion": "1",
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
-  "cupos": 44,
+  "cupos": 38,
   "inscritos": 38,
-  "libres": 6
+  "libres": 0
  },
  "340414|1": {
   "codigo": "340414",
   "seccion": "1",
   "nombre": "LIDERAZGO Y EMPRENDIMIENTO. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: LU 15:40 17:00 S303AD | TEO: VI 12:40 13:20 A108AC",
-  "cupos": 45,
+  "cupos": 41,
   "inscritos": 41,
-  "libres": 4
+  "libres": 0
  },
  "340451|1": {
   "codigo": "340451",
@@ -139,18 +139,18 @@
   "seccion": "2",
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
-  "cupos": 37,
+  "cupos": 34,
   "inscritos": 34,
-  "libres": 3
+  "libres": 0
  },
  "340463|1": {
   "codigo": "340463",
   "seccion": "1",
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
-  "cupos": 52,
+  "cupos": 51,
   "inscritos": 50,
-  "libres": 2
+  "libres": 1
  },
  "340463|2": {
   "codigo": "340463",
@@ -166,9 +166,9 @@
   "seccion": "1",
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 A202AC",
-  "cupos": 40,
+  "cupos": 32,
   "inscritos": 32,
-  "libres": 8
+  "libres": 0
  },
  "340474|1": {
   "codigo": "340474",
@@ -193,18 +193,18 @@
   "seccion": "1",
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
-  "cupos": 35,
+  "cupos": 30,
   "inscritos": 30,
-  "libres": 5
+  "libres": 0
  },
  "340477|1": {
   "codigo": "340477",
   "seccion": "1",
   "nombre": "ALEMÁN COMUNICACIONAL I . - SLAIBE FERNÁNDEZ ,ERNEST ALEJANDRO",
   "horario": "TEO: LU 12:40 14:00 A207AC | TEO: JU 11:10 12:30 A202AC",
-  "cupos": 49,
+  "cupos": 41,
   "inscritos": 41,
-  "libres": 8
+  "libres": 0
  },
  "340481|1": {
   "codigo": "340481",
@@ -247,27 +247,27 @@
   "seccion": "1",
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
-  "cupos": 50,
+  "cupos": 35,
   "inscritos": 35,
-  "libres": 15
+  "libres": 0
  },
  "340567|2": {
   "codigo": "340567",
   "seccion": "2",
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
-  "cupos": 50,
+  "cupos": 32,
   "inscritos": 32,
-  "libres": 18
+  "libres": 0
  },
  "340568|1": {
   "codigo": "340568",
   "seccion": "1",
   "nombre": "PERSPECTIVA DE GÉNERO, VIOLENCIA Y DIVERSIDAD SEXUAL. - SALAMANCA RÍOS ,SANDRA E",
   "horario": "TEO: VI 11:10 12:30 S202AD",
-  "cupos": 45,
+  "cupos": 26,
   "inscritos": 26,
-  "libres": 19
+  "libres": 0
  },
  "350125|1": {
   "codigo": "350125",
@@ -283,18 +283,18 @@
   "seccion": "1",
   "nombre": "LIDERAZGO Y EQUIPOS DE TRABAJO. - ESPINOZA MORA ,CINTHIA SOLEDAD",
   "horario": "TEO: MI 12:40 14:00 A101AA",
-  "cupos": 52,
+  "cupos": 51,
   "inscritos": 51,
-  "libres": 1
+  "libres": 0
  },
  "350140|1": {
   "codigo": "350140",
   "seccion": "1",
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
-  "cupos": 55,
+  "cupos": 54,
   "inscritos": 54,
-  "libres": 1
+  "libres": 0
  },
  "350166|1": {
   "codigo": "350166",
@@ -355,18 +355,18 @@
   "seccion": "1",
   "nombre": "COMUNICACIÓN EFECTIVA, LENGUAJE Y PERSUASIÓN. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: JU 12:40 14:00 A204AC",
-  "cupos": 53,
+  "cupos": 52,
   "inscritos": 52,
-  "libres": 1
+  "libres": 0
  },
  "350213|1": {
   "codigo": "350213",
   "seccion": "1",
   "nombre": "TALLER DE DESARROLLO PSICOLÓGICO. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: JU 12:40 14:00 A205AC",
-  "cupos": 54,
+  "cupos": 53,
   "inscritos": 53,
-  "libres": 1
+  "libres": 0
  },
  "350220|1": {
   "codigo": "350220",
@@ -400,36 +400,36 @@
   "seccion": "1",
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 14:10 15:30 S302AD",
-  "cupos": 51,
+  "cupos": 49,
   "inscritos": 49,
-  "libres": 2
+  "libres": 0
  },
  "350260|2": {
   "codigo": "350260",
   "seccion": "2",
   "nombre": "ALIMENTACIÓN SALUDABLE. - BUSTOS FICA ,GLORIA BEATRIZ",
   "horario": "TEO: MA 15:40 17:00 S303AD",
-  "cupos": 52,
+  "cupos": 46,
   "inscritos": 46,
-  "libres": 6
+  "libres": 0
  },
  "350263|1": {
   "codigo": "350263",
   "seccion": "1",
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A101AC",
-  "cupos": 51,
+  "cupos": 48,
   "inscritos": 48,
-  "libres": 3
+  "libres": 0
  },
  "350263|2": {
   "codigo": "350263",
   "seccion": "2",
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A102AA",
-  "cupos": 52,
+  "cupos": 51,
   "inscritos": 51,
-  "libres": 1
+  "libres": 0
  },
  "350285|1": {
   "codigo": "350285",
@@ -463,27 +463,27 @@
   "seccion": "1",
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - ZÚÑIGA QUIERO ",
   "horario": "PRA: LU 09:40 11:00 Gimnasio 1",
-  "cupos": 35,
+  "cupos": 34,
   "inscritos": 34,
-  "libres": 1
+  "libres": 0
  },
  "350303|2": {
   "codigo": "350303",
   "seccion": "2",
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - BURGOS MONROY ",
   "horario": "PRA: MI 09:40 11:00 Gimnasio 1",
-  "cupos": 36,
+  "cupos": 33,
   "inscritos": 33,
-  "libres": 3
+  "libres": 0
  },
  "350303|3": {
   "codigo": "350303",
   "seccion": "3",
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - VEGA FUENTES ,",
   "horario": "PRA: JU 09:40 11:00 Gimnasio 1",
-  "cupos": 35,
+  "cupos": 28,
   "inscritos": 28,
-  "libres": 7
+  "libres": 0
  },
  "350311|1": {
   "codigo": "350311",
@@ -527,8 +527,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "TEO: LU 16:20 17:50 S101ExIM",
   "cupos": 50,
-  "inscritos": 32,
-  "libres": 18
+  "inscritos": 31,
+  "libres": 19
  },
  "350311|9": {
   "codigo": "350311",
@@ -598,9 +598,9 @@
   "seccion": "1",
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal | TEO: MI 11:10 12:30 A205AC",
-  "cupos": 50,
+  "cupos": 44,
   "inscritos": 44,
-  "libres": 6
+  "libres": 0
  },
  "350316|1": {
   "codigo": "350316",
@@ -679,18 +679,18 @@
   "seccion": "1",
   "nombre": "TALLER DE PILATES PARA LA SALUD. - BURGOS MONROY ,ROMINA PATRICIA",
   "horario": "PRA: JU 11:10 12:30 Sala Taller 3",
-  "cupos": 31,
+  "cupos": 29,
   "inscritos": 29,
-  "libres": 2
+  "libres": 0
  },
  "350361|1": {
   "codigo": "350361",
   "seccion": "1",
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
-  "cupos": 30,
+  "cupos": 29,
   "inscritos": 29,
-  "libres": 1
+  "libres": 0
  },
  "350362|1": {
   "codigo": "350362",
@@ -787,9 +787,9 @@
   "seccion": "1",
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
-  "cupos": 70,
+  "cupos": 51,
   "inscritos": 51,
-  "libres": 19
+  "libres": 0
  },
  "350388|1": {
   "codigo": "350388",
@@ -823,36 +823,36 @@
   "seccion": "1",
   "nombre": "PRIMEROS AUXILIOS PSICOLÓGICOS. - DELGADO HORMAZÁBAL ,ALICIA ALEJANDRA",
   "horario": "TEO: MI 14:10 15:30 A101AA",
-  "cupos": 50,
+  "cupos": 46,
   "inscritos": 46,
-  "libres": 4
+  "libres": 0
  },
  "350392|1": {
   "codigo": "350392",
   "seccion": "1",
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S204EG",
-  "cupos": 37,
+  "cupos": 36,
   "inscritos": 36,
-  "libres": 1
+  "libres": 0
  },
  "350392|2": {
   "codigo": "350392",
   "seccion": "2",
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 09:40 11:00 A101EG",
-  "cupos": 35,
+  "cupos": 33,
   "inscritos": 33,
-  "libres": 2
+  "libres": 0
  },
  "350392|3": {
   "codigo": "350392",
   "seccion": "3",
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MI 11:10 12:30 A101EG",
-  "cupos": 35,
+  "cupos": 32,
   "inscritos": 32,
-  "libres": 3
+  "libres": 0
  },
  "350392|4": {
   "codigo": "350392",
@@ -868,62 +868,62 @@
   "seccion": "5",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
-  "cupos": 36,
+  "cupos": 35,
   "inscritos": 35,
-  "libres": 1
+  "libres": 0
  },
  "350392|6": {
   "codigo": "350392",
   "seccion": "6",
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: VI 12:40 14:00 A102AB",
-  "cupos": 38,
+  "cupos": 35,
   "inscritos": 35,
-  "libres": 3
+  "libres": 0
  },
  "350393|1": {
   "codigo": "350393",
   "seccion": "1",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A102AC",
-  "cupos": 53,
+  "cupos": 49,
   "inscritos": 49,
-  "libres": 4
+  "libres": 0
  },
  "350393|2": {
   "codigo": "350393",
   "seccion": "2",
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
-  "cupos": 51,
+  "cupos": 50,
   "inscritos": 50,
-  "libres": 1
+  "libres": 0
  },
  "350394|1": {
   "codigo": "350394",
   "seccion": "1",
   "nombre": "COMUNICACIÓN Y HABILIDADES SOCIALES. - MEDINA ALVEAR ,MARÍA JOANNA",
   "horario": "TEO: VI 11:10 12:30 A204AC",
-  "cupos": 50,
+  "cupos": 48,
   "inscritos": 48,
-  "libres": 2
+  "libres": 0
  },
  "350395|1": {
   "codigo": "350395",
   "seccion": "1",
   "nombre": "TALLER DE COMUNICACIÓN JURÍDICA ORAL Y ESCRITA. - ESPEJO FLORES ,HÉCTOR LUIS",
   "horario": "TEO: MA 17:10 18:30 A104AC",
-  "cupos": 30,
+  "cupos": 17,
   "inscritos": 17,
-  "libres": 13
+  "libres": 0
  },
  "350395|2": {
   "codigo": "350395",
   "seccion": "2",
   "nombre": "TALLER DE COMUNICACIÓN JURÍDICA ORAL Y ESCRITA. - ESPEJO FLORES ,HÉCTOR LUIS",
   "horario": "TEO: MI 17:10 18:30 A104AC",
-  "cupos": 30,
+  "cupos": 12,
   "inscritos": 12,
-  "libres": 18
+  "libres": 0
  }
 }
