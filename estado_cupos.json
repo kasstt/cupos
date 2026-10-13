@@ -381,7 +381,7 @@
   "codigo": "350222",
   "seccion": "1",
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
-  "horario": "TEO: MA 09:40 11:00 Sala MultiArtes",
+  "horario": "TEO: MA 09:40 11:00 Sala MultiArtes | TEO: MA 09:40 11:00 S301LPS",
   "cupos": 21,
   "inscritos": 21,
   "libres": 0
@@ -390,7 +390,7 @@
   "codigo": "350222",
   "seccion": "2",
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
-  "horario": "TEO: JU 09:40 11:00 Sala MultiArtes",
+  "horario": "TEO: JU 09:40 11:00 Sala MultiArtes | TEO: JU 09:40 11:00 S301LPS",
   "cupos": 12,
   "inscritos": 12,
   "libres": 0
@@ -428,8 +428,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A102AA",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
+  "inscritos": 50,
+  "libres": 1
  },
  "350285|1": {
   "codigo": "350285",
@@ -626,8 +626,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: JU 17:10 18:30 A105AC",
   "cupos": 50,
-  "inscritos": 22,
-  "libres": 28
+  "inscritos": 21,
+  "libres": 29
  },
  "350316|4": {
   "codigo": "350316",
@@ -707,8 +707,8 @@
   "nombre": "TALLER DE PINTURA CREATIVA. LA TÉCNICA DEL ÓLEO. - CONCHA VILLABLANCA ,MARIANELA",
   "horario": "TEO: JU 11:10 12:30 Sala de Artes | TEO: JU 11:10 12:30 S204EC",
   "cupos": 33,
-  "inscritos": 33,
-  "libres": 0
+  "inscritos": 32,
+  "libres": 1
  },
  "350374|1": {
   "codigo": "350374",
