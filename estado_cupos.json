@@ -104,8 +104,8 @@
   "nombre": "SOUNDS AND IMAGES OF THE LAST CENTURY. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: JU 11:10 12:30 S102FG",
   "cupos": 25,
-  "inscritos": 25,
-  "libres": 0
+  "inscritos": 24,
+  "libres": 1
  },
  "340387|1": {
   "codigo": "340387",
@@ -149,8 +149,8 @@
   "nombre": "MARKETING DIGITAL Y REDES SOCIALES PARA EL EMPRENDIMIENTO. - VEGA FERRADA ,SERGI",
   "horario": "",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
+  "inscritos": 50,
+  "libres": 1
  },
  "340463|2": {
   "codigo": "340463",
@@ -374,8 +374,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 A108AC | TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 32,
-  "inscritos": 32,
-  "libres": 0
+  "inscritos": 31,
+  "libres": 1
  },
  "350222|1": {
   "codigo": "350222",
@@ -527,8 +527,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "TEO: LU 15:40 17:00 S102ExIM | TEO: LU 16:20 17:50 S101ExIM",
   "cupos": 50,
-  "inscritos": 31,
-  "libres": 19
+  "inscritos": 30,
+  "libres": 20
  },
  "350311|9": {
   "codigo": "350311",
@@ -779,8 +779,8 @@
   "nombre": "TALLER EMPRENDIMIENTOS DE ALTO IMPACTO. - SÁEZ ARTEAGA ,CAMILA FERNANDA",
   "horario": "TEO: VI 11:10 12:30 S301AD",
   "cupos": 46,
-  "inscritos": 46,
-  "libres": 0
+  "inscritos": 45,
+  "libres": 1
  },
  "350387|1": {
   "codigo": "350387",
