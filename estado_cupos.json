@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC",
   "cupos": 38,
-  "inscritos": 37,
-  "libres": 1
+  "inscritos": 36,
+  "libres": 2
  },
  "340135|2": {
   "codigo": "340135",
@@ -374,8 +374,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 A108AC | TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 32,
-  "inscritos": 31,
-  "libres": 1
+  "inscritos": 30,
+  "libres": 2
  },
  "350222|1": {
   "codigo": "350222",
@@ -419,8 +419,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A101AC",
   "cupos": 48,
-  "inscritos": 47,
-  "libres": 1
+  "inscritos": 46,
+  "libres": 2
  },
  "350263|2": {
   "codigo": "350263",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes | TEO: VI 11:10 12:30 S302AD",
   "cupos": 36,
-  "inscritos": 34,
-  "libres": 2
+  "inscritos": 33,
+  "libres": 3
  },
  "350285|3": {
   "codigo": "350285",
