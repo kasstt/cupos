@@ -14,8 +14,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 15:40 17:00 S102FG | TEO: JU 17:50 18:30 S102FG",
   "cupos": 36,
-  "inscritos": 36,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 2
  },
  "340226|1": {
   "codigo": "340226",
@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 41,
-  "inscritos": 41,
-  "libres": 0
+  "inscritos": 40,
+  "libres": 1
  },
  "340341|1": {
   "codigo": "340341",
@@ -68,8 +68,8 @@
   "nombre": "INGLÉS INTERMEDIO. - VELÁSQUEZ ZAPATA ,LILIAN VIVIANA",
   "horario": "TEO: MA 12:40 14:00 S103ExIM | TEO: VI 14:10 16:20 S103ExIM",
   "cupos": 40,
-  "inscritos": 40,
-  "libres": 0
+  "inscritos": 39,
+  "libres": 1
  },
  "340344|3": {
   "codigo": "340344",
@@ -86,8 +86,8 @@
   "nombre": "INGLÉS AVANZADO. - BARRA SARZOZA ,LISA",
   "horario": "TEO: LU 12:40 14:50 S303AD | TEO: MI 11:10 12:30 A207AC",
   "cupos": 35,
-  "inscritos": 19,
-  "libres": 16
+  "inscritos": 18,
+  "libres": 17
  },
  "340345|2": {
   "codigo": "340345",
@@ -113,8 +113,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 38,
-  "inscritos": 38,
-  "libres": 0
+  "inscritos": 37,
+  "libres": 1
  },
  "340414|1": {
   "codigo": "340414",
@@ -140,8 +140,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
   "cupos": 34,
-  "inscritos": 34,
-  "libres": 0
+  "inscritos": 33,
+  "libres": 1
  },
  "340463|1": {
   "codigo": "340463",
@@ -176,8 +176,8 @@
   "nombre": "INTRODUCCIÓN A LA SUSTENTABILIDAD. - KRAUSSE MARTÍNEZ ,KARINA AIRES",
   "horario": "TEO: JU 14:10 15:30 A101EG",
   "cupos": 52,
-  "inscritos": 49,
-  "libres": 3
+  "inscritos": 48,
+  "libres": 4
  },
  "340474|2": {
   "codigo": "340474",
@@ -194,8 +194,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 30,
-  "inscritos": 29,
-  "libres": 1
+  "inscritos": 28,
+  "libres": 2
  },
  "340477|1": {
   "codigo": "340477",
@@ -203,8 +203,8 @@
   "nombre": "ALEMÁN COMUNICACIONAL I . - SLAIBE FERNÁNDEZ ,ERNEST ALEJANDRO",
   "horario": "TEO: LU 12:40 14:00 A207AC | TEO: JU 11:10 12:30 A202AC",
   "cupos": 41,
-  "inscritos": 41,
-  "libres": 0
+  "inscritos": 38,
+  "libres": 3
  },
  "340481|1": {
   "codigo": "340481",
@@ -221,8 +221,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "",
   "cupos": 50,
-  "inscritos": 45,
-  "libres": 5
+  "inscritos": 44,
+  "libres": 6
  },
  "340481|3": {
   "codigo": "340481",
@@ -257,8 +257,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 32,
-  "inscritos": 32,
-  "libres": 0
+  "inscritos": 31,
+  "libres": 1
  },
  "340568|1": {
   "codigo": "340568",
@@ -347,8 +347,8 @@
   "nombre": "FORTALECIMIENTO DE LA INTELIGENCIA EMOCIONAL. - FUENTES LEÓN ,JENNIFERT VANUSSA",
   "horario": "TEO: MI 17:10 18:30 A101AC",
   "cupos": 52,
-  "inscritos": 50,
-  "libres": 2
+  "inscritos": 49,
+  "libres": 3
  },
  "350210|1": {
   "codigo": "350210",
@@ -383,8 +383,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: MA 09:40 11:00 Sala MultiArtes | TEO: MA 09:40 11:00 S301LPS",
   "cupos": 21,
-  "inscritos": 21,
-  "libres": 0
+  "inscritos": 20,
+  "libres": 1
  },
  "350222|2": {
   "codigo": "350222",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes | TEO: JU 09:40 11:00 S301LPS",
   "cupos": 12,
-  "inscritos": 12,
-  "libres": 0
+  "inscritos": 11,
+  "libres": 1
  },
  "350260|1": {
   "codigo": "350260",
@@ -419,8 +419,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A101AC",
   "cupos": 48,
-  "inscritos": 48,
-  "libres": 0
+  "inscritos": 47,
+  "libres": 1
  },
  "350263|2": {
   "codigo": "350263",
@@ -437,8 +437,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 09:40 11:00 S303AD | TEO: VI 09:40 11:00 Sala de Artes",
   "cupos": 32,
-  "inscritos": 32,
-  "libres": 0
+  "inscritos": 31,
+  "libres": 1
  },
  "350285|2": {
   "codigo": "350285",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes | TEO: VI 11:10 12:30 S302AD",
   "cupos": 36,
-  "inscritos": 35,
-  "libres": 1
+  "inscritos": 34,
+  "libres": 2
  },
  "350285|3": {
   "codigo": "350285",
@@ -527,8 +527,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "TEO: LU 15:40 17:00 S102ExIM | TEO: LU 16:20 17:50 S101ExIM",
   "cupos": 50,
-  "inscritos": 30,
-  "libres": 20
+  "inscritos": 27,
+  "libres": 23
  },
  "350311|9": {
   "codigo": "350311",
@@ -554,8 +554,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - SÁEZ ALARCÓN ,JORGE AN",
   "horario": "TEO: LU 12:40 14:00 A204AC",
   "cupos": 55,
-  "inscritos": 49,
-  "libres": 6
+  "inscritos": 48,
+  "libres": 7
  },
  "350311|12": {
   "codigo": "350311",
@@ -572,8 +572,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
   "horario": "TEO: MI 12:40 14:00 A306AC",
   "cupos": 61,
-  "inscritos": 56,
-  "libres": 5
+  "inscritos": 55,
+  "libres": 6
  },
  "350311|14": {
   "codigo": "350311",
@@ -635,8 +635,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - OPAZO GALAZ ,CATALINA BELÉN",
   "horario": "TEO: LU 12:40 14:00 A208AC",
   "cupos": 51,
-  "inscritos": 50,
-  "libres": 1
+  "inscritos": 49,
+  "libres": 2
  },
  "350316|5": {
   "codigo": "350316",
@@ -680,8 +680,8 @@
   "nombre": "TALLER DE PILATES PARA LA SALUD. - BURGOS MONROY ,ROMINA PATRICIA",
   "horario": "PRA: JU 11:10 12:30 Sala Taller 3",
   "cupos": 29,
-  "inscritos": 29,
-  "libres": 0
+  "inscritos": 28,
+  "libres": 1
  },
  "350361|1": {
   "codigo": "350361",
@@ -725,8 +725,8 @@
   "nombre": "INTELIGENCIA EMOCIONAL(IE) EN LA ERA DE LA INTELIGENCIA ARTIFICIAL(IA). - DELGAD",
   "horario": "TEO: JU 09:40 11:00 A105AC",
   "cupos": 50,
-  "inscritos": 49,
-  "libres": 1
+  "inscritos": 47,
+  "libres": 3
  },
  "350378|1": {
   "codigo": "350378",
@@ -788,8 +788,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 51,
-  "inscritos": 51,
-  "libres": 0
+  "inscritos": 50,
+  "libres": 1
  },
  "350388|1": {
   "codigo": "350388",
@@ -797,8 +797,8 @@
   "nombre": "TALLER DE DEFENSA PERSONAL. - ÓRDENES VALENZUELA ,MAURO ISRAEL",
   "horario": "PRA: JU 17:10 18:30 Gimnasio 1",
   "cupos": 27,
-  "inscritos": 27,
-  "libres": 0
+  "inscritos": 26,
+  "libres": 1
  },
  "350389|1": {
   "codigo": "350389",
@@ -815,8 +815,8 @@
   "nombre": "TALLER DE ACTIVIDAD FÍSICA Y JUEGOS PREDEPORTIVOS. - CAMPOS SOBARZO ,FERNANDO RO",
   "horario": "PRA: LU 12:40 14:00 Gimnasio 1",
   "cupos": 33,
-  "inscritos": 33,
-  "libres": 0
+  "inscritos": 31,
+  "libres": 2
  },
  "350391|1": {
   "codigo": "350391",
@@ -833,8 +833,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S204EG",
   "cupos": 36,
-  "inscritos": 36,
-  "libres": 0
+  "inscritos": 35,
+  "libres": 1
  },
  "350392|2": {
   "codigo": "350392",
@@ -869,8 +869,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: LU 11:10 12:30 A308AC",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|6": {
   "codigo": "350392",
@@ -905,8 +905,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
   "cupos": 49,
-  "inscritos": 49,
-  "libres": 0
+  "inscritos": 47,
+  "libres": 2
  },
  "350394|1": {
   "codigo": "350394",
