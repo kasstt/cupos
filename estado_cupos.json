@@ -32,8 +32,8 @@
   "nombre": "GUERRA EN EL SIGLO XXI: LOS CONFLICTOS CONTEMPORÁNEOS. - CONCHA OVIEDO ,HÉCTOR E",
   "horario": "TEO: MA 17:10 18:30 S101FG",
   "cupos": 19,
-  "inscritos": 19,
-  "libres": 0
+  "inscritos": 18,
+  "libres": 1
  },
  "340228|1": {
   "codigo": "340228",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes | TEO: VI 11:10 12:30 S302AD",
   "cupos": 36,
-  "inscritos": 30,
-  "libres": 6
+  "inscritos": 28,
+  "libres": 8
  },
  "350285|3": {
   "codigo": "350285",
@@ -599,8 +599,8 @@
   "nombre": "TALLER DE APRECIACIÓN ARTÍSTICA: APRENDER A MIRAR UNA PINTURA. - CONCHA VILLABLA",
   "horario": "TEO: MI 11:10 12:30 Sala Exp Corporal | TEO: MI 11:10 12:30 A205AC",
   "cupos": 44,
-  "inscritos": 44,
-  "libres": 0
+  "inscritos": 43,
+  "libres": 1
  },
  "350316|1": {
   "codigo": "350316",
