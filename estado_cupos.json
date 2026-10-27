@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 41,
-  "inscritos": 40,
-  "libres": 1
+  "inscritos": 39,
+  "libres": 2
  },
  "340341|1": {
   "codigo": "340341",
@@ -68,8 +68,8 @@
   "nombre": "INGLÉS INTERMEDIO. - VELÁSQUEZ ZAPATA ,LILIAN VIVIANA",
   "horario": "TEO: MA 12:40 14:00 S103ExIM | TEO: VI 14:10 16:20 S103ExIM",
   "cupos": 40,
-  "inscritos": 37,
-  "libres": 3
+  "inscritos": 35,
+  "libres": 5
  },
  "340344|3": {
   "codigo": "340344",
@@ -113,8 +113,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 38,
-  "inscritos": 35,
-  "libres": 3
+  "inscritos": 30,
+  "libres": 8
  },
  "340414|1": {
   "codigo": "340414",
@@ -203,8 +203,8 @@
   "nombre": "ALEMÁN COMUNICACIONAL I . - SLAIBE FERNÁNDEZ ,ERNEST ALEJANDRO",
   "horario": "TEO: LU 12:40 14:00 A207AC | TEO: JU 11:10 12:30 A202AC",
   "cupos": 41,
-  "inscritos": 38,
-  "libres": 3
+  "inscritos": 37,
+  "libres": 4
  },
  "340481|1": {
   "codigo": "340481",
@@ -293,8 +293,8 @@
   "nombre": "EMPRENDIENDO CON MI PRIMER NEGOCIO. - MUÑOZ SUÁREZ ,NELSON ARTURO",
   "horario": "",
   "cupos": 54,
-  "inscritos": 54,
-  "libres": 0
+  "inscritos": 53,
+  "libres": 1
  },
  "350166|1": {
   "codigo": "350166",
@@ -392,8 +392,8 @@
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
   "horario": "TEO: JU 09:40 11:00 Sala MultiArtes | TEO: JU 09:40 11:00 S301LPS",
   "cupos": 12,
-  "inscritos": 11,
-  "libres": 1
+  "inscritos": 9,
+  "libres": 3
  },
  "350260|1": {
   "codigo": "350260",
@@ -689,8 +689,8 @@
   "nombre": "KARATE PARA EL DESARROLLO PERSONAL. - MORA GALLEGOS ,VERÓNICA DEL PILAR",
   "horario": "PRA: MA 12:40 14:00 Gimnasio 1",
   "cupos": 29,
-  "inscritos": 29,
-  "libres": 0
+  "inscritos": 28,
+  "libres": 1
  },
  "350362|1": {
   "codigo": "350362",
