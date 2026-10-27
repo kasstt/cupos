@@ -50,8 +50,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 27,
-  "inscritos": 25,
-  "libres": 2
+  "inscritos": 24,
+  "libres": 3
  },
  "340344|1": {
   "codigo": "340344",
@@ -140,8 +140,8 @@
   "nombre": "LENGUA DE SEÑAS CHILENA Y CULTURA . - CAORSI VILLANUEVA ,KATHERINNE ELIANA",
   "horario": "TEO: MA 18:40 20:00 A101AA",
   "cupos": 34,
-  "inscritos": 33,
-  "libres": 1
+  "inscritos": 32,
+  "libres": 2
  },
  "340463|1": {
   "codigo": "340463",
@@ -194,8 +194,8 @@
   "nombre": "CIBORGS Y OTROS “MONSTRUOS” EN LA NARRATIVA DE CIENCIA FICCIÓN LATINOAMERICANA. ",
   "horario": "TEO: MA 12:40 14:00 S101FG",
   "cupos": 30,
-  "inscritos": 28,
-  "libres": 2
+  "inscritos": 27,
+  "libres": 3
  },
  "340477|1": {
   "codigo": "340477",
@@ -257,8 +257,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: JU 08:10 09:30 S101FG",
   "cupos": 32,
-  "inscritos": 31,
-  "libres": 1
+  "inscritos": 30,
+  "libres": 2
  },
  "340568|1": {
   "codigo": "340568",
@@ -446,8 +446,8 @@
   "nombre": "TALLER DE CERÁMICA Y CONSERVACIÓN DE UNA IDENTIDAD. - BRAVO INZUNZA ,BÁRBARA EUG",
   "horario": "TEO: VI 11:10 12:30 Sala de Artes | TEO: VI 11:10 12:30 S302AD",
   "cupos": 36,
-  "inscritos": 31,
-  "libres": 5
+  "inscritos": 30,
+  "libres": 6
  },
  "350285|3": {
   "codigo": "350285",
@@ -473,8 +473,8 @@
   "nombre": "TALLER DE EJERCICIO FÍSICO Y NUTRICIÓN PARA UNA VIDA SALUDABLE. - BURGOS MONROY ",
   "horario": "PRA: MI 09:40 11:00 Gimnasio 1",
   "cupos": 33,
-  "inscritos": 33,
-  "libres": 0
+  "inscritos": 32,
+  "libres": 1
  },
  "350303|3": {
   "codigo": "350303",
@@ -527,8 +527,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "TEO: LU 15:40 17:00 S102ExIM | TEO: LU 16:20 17:50 S101ExIM",
   "cupos": 50,
-  "inscritos": 27,
-  "libres": 23
+  "inscritos": 26,
+  "libres": 24
  },
  "350311|9": {
   "codigo": "350311",
@@ -572,8 +572,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - TAMPE ARAYA ,VERENNA",
   "horario": "TEO: MI 12:40 14:00 A306AC",
   "cupos": 61,
-  "inscritos": 55,
-  "libres": 6
+  "inscritos": 54,
+  "libres": 7
  },
  "350311|14": {
   "codigo": "350311",
@@ -617,8 +617,8 @@
   "nombre": "PROGRAMA TUTORES: ESTRATEGIA PARA EL APRENDIZAJE. - IUBINI MUÑOZ ,JAVIER ESTEBAN",
   "horario": "TEO: MI 11:10 12:30 A102AC",
   "cupos": 50,
-  "inscritos": 44,
-  "libres": 6
+  "inscritos": 43,
+  "libres": 7
  },
  "350316|3": {
   "codigo": "350316",
