@@ -41,8 +41,8 @@
   "nombre": "ESTÉTICAS URBANAS: CIUDAD E IMAGINACIÓN LITERARIA. - OSTRIA REINOSO ,OLGA ESTELA",
   "horario": "TEO: JU 14:10 15:30 S102FG",
   "cupos": 41,
-  "inscritos": 38,
-  "libres": 3
+  "inscritos": 37,
+  "libres": 4
  },
  "340341|1": {
   "codigo": "340341",
@@ -239,8 +239,8 @@
   "nombre": "PROGRAMA TUTORES: PROCESO DE ADAPTACIÓN A LA VIDA UNIVERSITARIA . - OPAZO GALAZ ",
   "horario": "TEO: LU 12:40 14:00 A102AC",
   "cupos": 50,
-  "inscritos": 19,
-  "libres": 31
+  "inscritos": 18,
+  "libres": 32
  },
  "340567|1": {
   "codigo": "340567",
@@ -248,8 +248,8 @@
   "nombre": "TALLER DE PRODUCCIÓN ORAL Y ESCRITA. - FIGUEROA SALGADO ,ELIZABETH ANDREA",
   "horario": "TEO: MA 08:10 09:30 S101FG",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "340567|2": {
   "codigo": "340567",
@@ -365,8 +365,8 @@
   "nombre": "TALLER DE DESARROLLO PSICOLÓGICO. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: JU 12:40 14:00 A205AC",
   "cupos": 53,
-  "inscritos": 53,
-  "libres": 0
+  "inscritos": 52,
+  "libres": 1
  },
  "350220|1": {
   "codigo": "350220",
@@ -374,8 +374,8 @@
   "nombre": "TALLER DE ARTES GRÁFICAS Y ESTAMPACIÓN. - BRAVO INZUNZA ,BÁRBARA EUGENIA",
   "horario": "TEO: LU 09:40 11:00 A108AC | TEO: LU 09:40 11:00 Sala de Artes",
   "cupos": 32,
-  "inscritos": 30,
-  "libres": 2
+  "inscritos": 28,
+  "libres": 4
  },
  "350222|1": {
   "codigo": "350222",
@@ -419,8 +419,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 12:40 14:00 A101AC",
   "cupos": 48,
-  "inscritos": 46,
-  "libres": 2
+  "inscritos": 43,
+  "libres": 5
  },
  "350263|2": {
   "codigo": "350263",
@@ -428,8 +428,8 @@
   "nombre": "HERRAMIENTAS PARA LA INSERCIÓN LABORAL. - BELMAR QUEZADA ,ANGELO FABIÁN",
   "horario": "TEO: MI 14:10 15:30 A102AA",
   "cupos": 51,
-  "inscritos": 50,
-  "libres": 1
+  "inscritos": 49,
+  "libres": 2
  },
  "350285|1": {
   "codigo": "350285",
@@ -527,8 +527,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - OPAZO GALAZ ,CATALINA ",
   "horario": "TEO: LU 15:40 17:00 S102ExIM | TEO: LU 16:20 17:50 S101ExIM",
   "cupos": 50,
-  "inscritos": 25,
-  "libres": 25
+  "inscritos": 24,
+  "libres": 26
  },
  "350311|9": {
   "codigo": "350311",
@@ -554,8 +554,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - SÁEZ ALARCÓN ,JORGE AN",
   "horario": "TEO: LU 12:40 14:00 A204AC",
   "cupos": 55,
-  "inscritos": 48,
-  "libres": 7
+  "inscritos": 47,
+  "libres": 8
  },
  "350311|12": {
   "codigo": "350311",
@@ -680,8 +680,8 @@
   "nombre": "TALLER DE PILATES PARA LA SALUD. - BURGOS MONROY ,ROMINA PATRICIA",
   "horario": "PRA: JU 11:10 12:30 Sala Taller 3",
   "cupos": 29,
-  "inscritos": 28,
-  "libres": 1
+  "inscritos": 27,
+  "libres": 2
  },
  "350361|1": {
   "codigo": "350361",
@@ -788,8 +788,8 @@
   "nombre": "PREVENCIÓN DE DROGAS Y PROYECTO DE VIDA. - CORTEZ BOLADOS ,ALEJANDRA PAULINA",
   "horario": "",
   "cupos": 51,
-  "inscritos": 50,
-  "libres": 1
+  "inscritos": 49,
+  "libres": 2
  },
  "350388|1": {
   "codigo": "350388",
@@ -833,8 +833,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 08:10 09:30 S204EG",
   "cupos": 36,
-  "inscritos": 32,
-  "libres": 4
+  "inscritos": 31,
+  "libres": 5
  },
  "350392|2": {
   "codigo": "350392",
@@ -860,8 +860,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: JU 08:10 09:30 S201AD",
   "cupos": 37,
-  "inscritos": 37,
-  "libres": 0
+  "inscritos": 36,
+  "libres": 1
  },
  "350392|5": {
   "codigo": "350392",
@@ -896,8 +896,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: MA 12:40 14:00 A102AC",
   "cupos": 50,
-  "inscritos": 50,
-  "libres": 0
+  "inscritos": 49,
+  "libres": 1
  },
  "350393|2": {
   "codigo": "350393",
