@@ -167,8 +167,8 @@
   "nombre": "KARL MARX: INTRODUCCIÓN AL PENSAMIENTO POLÍTICO Y SOCIAL. - ACEVEDO ALEGRÍA ,JOR",
   "horario": "TEO: MA 15:40 17:00 A202AC",
   "cupos": 32,
-  "inscritos": 32,
-  "libres": 0
+  "inscritos": 31,
+  "libres": 1
  },
  "340474|1": {
   "codigo": "340474",
@@ -500,8 +500,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: JU 11:10 12:30 A208AC",
   "cupos": 50,
-  "inscritos": 26,
-  "libres": 24
+  "inscritos": 25,
+  "libres": 25
  },
  "350311|6": {
   "codigo": "350311",
