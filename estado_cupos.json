@@ -390,7 +390,7 @@
   "codigo": "350222",
   "seccion": "2",
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
-  "horario": "TEO: JU 09:40 11:00 Sala MultiArtes | TEO: JU 09:40 11:00 S301LPS",
+  "horario": "TEO: JU 09:40 11:00 S301LPS | TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 12,
   "inscritos": 9,
   "libres": 3
@@ -500,8 +500,8 @@
   "nombre": "PROGRAMA TUTORES: HERRAMIENTAS PARA EL ÉXITO ACADÉMICO. - IUBINI MUÑOZ ,JAVIER E",
   "horario": "TEO: JU 11:10 12:30 A208AC",
   "cupos": 50,
-  "inscritos": 25,
-  "libres": 25
+  "inscritos": 24,
+  "libres": 26
  },
  "350311|6": {
   "codigo": "350311",
@@ -590,8 +590,8 @@
   "nombre": "TALLER DE CUECA, PATRIMONIO E IDENTIDAD CULTURAL. - SANTANA VILLARROEL ,MAURICIO",
   "horario": "TEO: JU 14:10 15:30 Sala MultiArtes",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350315|1": {
   "codigo": "350315",
@@ -878,8 +878,8 @@
   "nombre": "PRIMEROS AUXILIOS. - ALEUY MELO ,LORETO DEL CARMEN",
   "horario": "TEO: VI 12:40 14:00 A102AB",
   "cupos": 35,
-  "inscritos": 35,
-  "libres": 0
+  "inscritos": 34,
+  "libres": 1
  },
  "350392|7": {
   "codigo": "350392",
