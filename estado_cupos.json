@@ -5,8 +5,8 @@
   "nombre": "TALLER DE DESARROLLO PERSONAL Y PROFESIONAL. - ACEVEDO ALEGRÍA ,JORGE ANTONIO",
   "horario": "TEO: MI 14:10 15:30 A208AC",
   "cupos": 38,
-  "inscritos": 36,
-  "libres": 2
+  "inscritos": 35,
+  "libres": 3
  },
  "340135|2": {
   "codigo": "340135",
@@ -50,8 +50,8 @@
   "nombre": "TELEVISIÓN, CULTURA Y NUEVAS COSTUMBRES. - MAZA ORTEGA ,EDGARDO LEOPOLDO",
   "horario": "TEO: VI 11:10 12:30 S101FG",
   "cupos": 27,
-  "inscritos": 24,
-  "libres": 3
+  "inscritos": 23,
+  "libres": 4
  },
  "340344|1": {
   "codigo": "340344",
@@ -68,8 +68,8 @@
   "nombre": "INGLÉS INTERMEDIO. - VELÁSQUEZ ZAPATA ,LILIAN VIVIANA",
   "horario": "TEO: MA 12:40 14:00 S103ExIM | TEO: VI 14:10 16:20 S103ExIM",
   "cupos": 40,
-  "inscritos": 35,
-  "libres": 5
+  "inscritos": 34,
+  "libres": 6
  },
  "340344|3": {
   "codigo": "340344",
@@ -113,8 +113,8 @@
   "nombre": "FRANCÉS COMUNICACIONAL I. - RUIZ BURDILES ,JORGE ANTONIO",
   "horario": "TEO: MA 12:40 14:00 A101EG | TEO: VI 11:10 12:30 S210EG",
   "cupos": 38,
-  "inscritos": 30,
-  "libres": 8
+  "inscritos": 29,
+  "libres": 9
  },
  "340414|1": {
   "codigo": "340414",
@@ -390,7 +390,7 @@
   "codigo": "350222",
   "seccion": "2",
   "nombre": "TALLER DE FOTOGRAFÍA DIGITAL PARA COMUNICAR MENSAJES. - FUENTEALBA ELGUETA ,DANI",
-  "horario": "TEO: JU 09:40 11:00 Sala MultiArtes | TEO: JU 09:40 11:00 S301LPS",
+  "horario": "TEO: JU 09:40 11:00 S301LPS | TEO: JU 09:40 11:00 Sala MultiArtes",
   "cupos": 12,
   "inscritos": 9,
   "libres": 3
@@ -698,8 +698,8 @@
   "nombre": "TALLER DE TENIS. - OROZCO VILUGRÓN ,VÍCTOR IGNACIO",
   "horario": "PRA: JU 09:40 11:00 Cancha Tenis 1",
   "cupos": 29,
-  "inscritos": 29,
-  "libres": 0
+  "inscritos": 28,
+  "libres": 1
  },
  "350369|1": {
   "codigo": "350369",
@@ -842,8 +842,8 @@
   "nombre": "PRIMEROS AUXILIOS. - JEREZ GUZMÁN ,NAYADETH SOLEDAD",
   "horario": "TEO: MA 09:40 11:00 A101EG",
   "cupos": 33,
-  "inscritos": 33,
-  "libres": 0
+  "inscritos": 32,
+  "libres": 1
  },
  "350392|3": {
   "codigo": "350392",
@@ -905,8 +905,8 @@
   "nombre": "EDUCACIÓN FINANCIERA. - SÁEZ ALARCÓN ,JORGE ANDRÉS",
   "horario": "TEO: JU 12:40 14:00 A106AC",
   "cupos": 49,
-  "inscritos": 46,
-  "libres": 3
+  "inscritos": 45,
+  "libres": 4
  },
  "350394|1": {
   "codigo": "350394",
